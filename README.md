@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NLP and Computer Vision**
 
-- 👨‍💻 All of my projects are available at [gagan3012.github.io](gagan3012.github.io)
+- 👨‍💻 All of my projects are available at [gagan3012.github.io](https://gagan3012.github.io/)
 
 - 💬 Ask me about **Machine Learning, NLP and Backend Development**
 
@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagan3012&show_icons=true&locale=en&layout=compact" alt="gagan3012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gagan3012&show_icons=true&locale=en" alt="gagan3012" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&" alt="gagan3012" /></p>
