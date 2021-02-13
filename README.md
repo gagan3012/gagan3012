@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [http://bit.ly/gb-resume](http://bit.ly/gb-resume)
 
-- ⚡ Fun fact **I am Mental Health advocate! 🧠 and I can Fly a plane ✈ **
+- ⚡ Fun fact **I am Mental Health advocate! 🧠 and I can Fly a plane ✈**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagan3012&show_icons=true&locale=en&layout=compact" alt="gagan3012" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gagan3012&show_icons=true&locale=en" alt="gagan3012" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gagan3012&show_icons=true&locale=en" alt="gagan3012" /></p>
