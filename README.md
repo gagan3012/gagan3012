@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [http://bit.ly/gb-resume](http://bit.ly/gb-resume)
 
-- ⚡ Fun fact **I am Mental Health advocate!**
+- ⚡ Fun fact **I am Mental Health advocate! 🧠 and I can Fly a plane ✈ **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
