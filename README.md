@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gbhatia880@gmail.com**
 
-- 📄 Know about my experiences [http://bit.ly/gb-resume](http://bit.ly/gb-resume)
+- 📄 Know about my experiences [**Resume here**](https://drive.google.com/file/d/1SpEEjBFZy0osNV0bQOxNgZ-Z_VHUzWss/view?usp=sharing)
 
 - ⚡ Fun fact **I am Mental Health advocate! 🧠**
 
