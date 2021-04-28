@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gagan3012&show_icons=true&locale=en&layout=compact" alt="gagan3012" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gagan3012&show_icons=true&locale=en" alt="gagan3012" /></p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gagan3012)](https://git.io/streak-stats)
