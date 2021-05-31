@@ -17,10 +17,10 @@
 <a href="https://linkedin.com/in/gbhatia30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gbhatia30" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 </a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true&hide_title=true">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true&hide_title=true" />
 </a>
 
