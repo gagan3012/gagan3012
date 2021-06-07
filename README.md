@@ -17,10 +17,16 @@
 <a href="https://linkedin.com/in/gbhatia30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gbhatia30" height="30" width="40" /></a>
 </p>
 
+<p align="center">
 <a href="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
+  <img width="48%"  src="https://github-readme-stats.vercel.app/api?username=gagan3012&count_private=true&show_icons=true&include_all_commits=false&hide_border=true&hide_title=true" />
 </a>
 <a href="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true" />
+  <img width="48%"  src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&hide_border=true" />
 </a>
+</p>
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gagan3012&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gagan3012&theme=tokyonight" />
+</p>
