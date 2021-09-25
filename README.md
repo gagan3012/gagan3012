@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 24th, 2021, 6:17:29 PM (GMT)
+Last Updated: Saturday, September 25th, 2021, 12:49:09 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#69](https://github.com/gagan3012/keytotext/pull/69) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-2. 💪 Opened PR [#69](https://github.com/gagan3012/keytotext/pull/69) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-3. 🎉 Merged PR [#68](https://github.com/gagan3012/keytotext/pull/68) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-4. 💪 Opened PR [#68](https://github.com/gagan3012/keytotext/pull/68) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-5. 🎉 Merged PR [#4](https://github.com/gagan3012/pyt/pull/4) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+1. 💪 Opened PR [#4911](https://github.com/ultralytics/yolov5/pull/4911) in [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+2. 🔱 Forked [gagan3012/yolov5](https://github.com/gagan3012/yolov5) from [ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+3. 🎉 Merged PR [#69](https://github.com/gagan3012/keytotext/pull/69) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+4. 💪 Opened PR [#69](https://github.com/gagan3012/keytotext/pull/69) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+5. 🎉 Merged PR [#68](https://github.com/gagan3012/keytotext/pull/68) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
