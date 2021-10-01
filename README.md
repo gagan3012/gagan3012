@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 1st, 2021, 12:53:21 AM (GMT)
+Last Updated: Friday, October 1st, 2021, 6:17:35 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [google/python-fire](https://github.com/google/python-fire)
-2. ⭐ Starred [salesforce/CodeT5](https://github.com/salesforce/CodeT5)
-3. 🎉 Merged PR [#11](https://github.com/gagan3012/pyt/pull/11) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-4. 💪 Opened PR [#11](https://github.com/gagan3012/pyt/pull/11) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-5. 🎉 Merged PR [#10](https://github.com/gagan3012/pyt/pull/10) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+1. ⭐ Starred [Unbabel/OpenKiwi](https://github.com/Unbabel/OpenKiwi)
+2. 🎉 Merged PR [#12](https://github.com/gagan3012/pyt/pull/12) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+3. 💪 Opened PR [#12](https://github.com/gagan3012/pyt/pull/12) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+4. ⭐ Starred [google/python-fire](https://github.com/google/python-fire)
+5. ⭐ Starred [salesforce/CodeT5](https://github.com/salesforce/CodeT5)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
