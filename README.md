@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 2nd, 2021, 12:21:51 PM (GMT)
+Last Updated: Saturday, October 2nd, 2021, 6:16:15 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#13](https://github.com/gagan3012/pyt/pull/13) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-2. 💪 Opened PR [#13](https://github.com/gagan3012/pyt/pull/13) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-3. ⭐ Starred [gsarti/t5-flax-gcp](https://github.com/gsarti/t5-flax-gcp)
-4. ⭐ Starred [Unbabel/OpenKiwi](https://github.com/Unbabel/OpenKiwi)
-5. 🎉 Merged PR [#12](https://github.com/gagan3012/pyt/pull/12) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+1. ⭐ Starred [recognai/rubrix](https://github.com/recognai/rubrix)
+2. 🎉 Merged PR [#13](https://github.com/gagan3012/pyt/pull/13) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+3. 💪 Opened PR [#13](https://github.com/gagan3012/pyt/pull/13) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+4. ⭐ Starred [gsarti/t5-flax-gcp](https://github.com/gsarti/t5-flax-gcp)
+5. ⭐ Starred [Unbabel/OpenKiwi](https://github.com/Unbabel/OpenKiwi)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
