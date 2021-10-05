@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 5th, 2021, 12:50:11 AM (GMT)
+Last Updated: Tuesday, October 5th, 2021, 6:17:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-2. 🎉 Merged PR [#70](https://github.com/gagan3012/keytotext/pull/70) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-3. 💪 Opened PR [#70](https://github.com/gagan3012/keytotext/pull/70) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-4. 🎉 Merged PR [#14](https://github.com/gagan3012/pyt/pull/14) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-5. 💪 Opened PR [#14](https://github.com/gagan3012/pyt/pull/14) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+1. 🎉 Merged PR [#74](https://github.com/gagan3012/keytotext/pull/74) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+2. 🎉 Merged PR [#75](https://github.com/gagan3012/keytotext/pull/75) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+3. ❌ Closed PR [#71](https://github.com/gagan3012/keytotext/pull/71) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+4. 🎉 Merged PR [#72](https://github.com/gagan3012/keytotext/pull/72) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+5. 🎉 Merged PR [#17](https://github.com/gagan3012/pyt/pull/17) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
