@@ -40,6 +40,6 @@ Last Updated: Thursday, October 7th, 2021, 6:16:44 PM (GMT)
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
 
-![Metrics](https://metrics.lecoq.io/gagan3012?template=classic&isocalendar=1&isocalendar.duration=half-year&config.timezone=America%2FVancouver)
+![Metrics](https://github.com/gagan3012/gagan3012/blob/main/github-metrics.svg)
 
 
