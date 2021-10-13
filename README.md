@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, October 13th, 2021, 12:50:45 AM (GMT)
+Last Updated: Wednesday, October 13th, 2021, 6:17:21 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [zhijing-jin/nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality)
-2. 🎉 Merged PR [#5](https://github.com/gagan3012/MLH/pull/5) in [gagan3012/MLH](https://github.com/gagan3012/MLH)
-3. 💪 Opened PR [#5](https://github.com/gagan3012/MLH/pull/5) in [gagan3012/MLH](https://github.com/gagan3012/MLH)
-4. 🎉 Merged PR [#22](https://github.com/gagan3012/mlapi/pull/22) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-5. 💪 Opened PR [#22](https://github.com/gagan3012/mlapi/pull/22) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+1. 🎉 Merged PR [#18](https://github.com/gagan3012/pyt/pull/18) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+2. 💪 Opened PR [#18](https://github.com/gagan3012/pyt/pull/18) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+3. ⭐ Starred [zhijing-jin/nlp-phd-global-equality](https://github.com/zhijing-jin/nlp-phd-global-equality)
+4. 🎉 Merged PR [#5](https://github.com/gagan3012/MLH/pull/5) in [gagan3012/MLH](https://github.com/gagan3012/MLH)
+5. 💪 Opened PR [#5](https://github.com/gagan3012/MLH/pull/5) in [gagan3012/MLH](https://github.com/gagan3012/MLH)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
