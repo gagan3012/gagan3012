@@ -41,5 +41,3 @@ Last Updated: Sunday, October 17th, 2021, 12:51:27 AM (GMT)
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
 
 ![Metrics](https://github.com/gagan3012/gagan3012/blob/main/github-metrics.svg)
-
-
