@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 23rd, 2021, 6:16:19 PM (GMT)
+Last Updated: Sunday, October 24th, 2021, 12:51:16 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [huggingface/workshops](https://github.com/huggingface/workshops)
-2. 🎉 Merged PR [#4](https://github.com/gagan3012/gagan3012.github.io/pull/4) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
-3. 💪 Opened PR [#4](https://github.com/gagan3012/gagan3012.github.io/pull/4) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
-4. 🎉 Merged PR [#3](https://github.com/gagan3012/gagan3012.github.io/pull/3) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
-5. 💪 Opened PR [#3](https://github.com/gagan3012/gagan3012.github.io/pull/3) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
+1. 🎉 Merged PR [#24](https://github.com/gagan3012/mlapi/pull/24) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+2. 💪 Opened PR [#24](https://github.com/gagan3012/mlapi/pull/24) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+3. ⭐ Starred [huggingface/workshops](https://github.com/huggingface/workshops)
+4. 🎉 Merged PR [#4](https://github.com/gagan3012/gagan3012.github.io/pull/4) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
+5. 💪 Opened PR [#4](https://github.com/gagan3012/gagan3012.github.io/pull/4) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
