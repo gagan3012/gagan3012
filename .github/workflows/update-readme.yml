@@ -19,3 +19,9 @@ jobs:
         uses: Readme-Workflows/recent-activity@v2.3.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_user_name: gagan3012
+          commit_user_email: gbhatia880@gmail.com
+          commit_author: Gagan Bhatia <gbhatia880@gmail.com> # defaults to author of the commit that triggered the run
+
+        
