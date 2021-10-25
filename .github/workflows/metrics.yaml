@@ -22,9 +22,3 @@ jobs:
           config_timezone: America/Vancouver
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-      - name: Commit changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          author_name: Gagan Bhatia
-          author_email: gbhatia880@gmail.com
-          message: 'Updates to My github Metrics'
