@@ -23,5 +23,3 @@ jobs:
           commit_user_name: gagan3012
           commit_user_email: gbhatia880@gmail.com
           commit_author: Gagan Bhatia <gbhatia880@gmail.com> # defaults to author of the commit that triggered the run
-
-        
