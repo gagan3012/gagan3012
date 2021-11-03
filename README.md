@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 2nd, 2021, 6:17:26 PM (GMT)
+Last Updated: Wednesday, November 3rd, 2021, 12:49:20 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#27](https://github.com/gagan3012/mlapi/pull/27) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-2. 💪 Opened PR [#27](https://github.com/gagan3012/mlapi/pull/27) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-3. 🎉 Merged PR [#26](https://github.com/gagan3012/mlapi/pull/26) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-4. 💪 Opened PR [#26](https://github.com/gagan3012/mlapi/pull/26) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-5. 🎉 Merged PR [#2](https://github.com/gagan3012/pickuplines/pull/2) in [gagan3012/pickuplines](https://github.com/gagan3012/pickuplines)
+1. 📔 Created new repository [gagan3012/zeroshot-learning](https://github.com/gagan3012/zeroshot-learning)
+2. 🎉 Merged PR [#27](https://github.com/gagan3012/mlapi/pull/27) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+3. 💪 Opened PR [#27](https://github.com/gagan3012/mlapi/pull/27) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+4. 🎉 Merged PR [#26](https://github.com/gagan3012/mlapi/pull/26) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+5. 💪 Opened PR [#26](https://github.com/gagan3012/mlapi/pull/26) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
