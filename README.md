@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, November 7th, 2021, 6:16:38 PM (GMT)
+Last Updated: Monday, November 8th, 2021, 12:50:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#24](https://github.com/gagan3012/pyt/pull/24) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-2. 💪 Opened PR [#24](https://github.com/gagan3012/pyt/pull/24) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-3. 🎉 Merged PR [#23](https://github.com/gagan3012/pyt/pull/23) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-4. 💪 Opened PR [#23](https://github.com/gagan3012/pyt/pull/23) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-5. 🎉 Merged PR [#22](https://github.com/gagan3012/pyt/pull/22) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+1. 🎉 Merged PR [#5](https://github.com/gagan3012/.github/pull/5) in [gagan3012/.github](https://github.com/gagan3012/.github)
+2. 💪 Opened PR [#5](https://github.com/gagan3012/.github/pull/5) in [gagan3012/.github](https://github.com/gagan3012/.github)
+3. 🎉 Merged PR [#4](https://github.com/gagan3012/.github/pull/4) in [gagan3012/.github](https://github.com/gagan3012/.github)
+4. 💪 Opened PR [#4](https://github.com/gagan3012/.github/pull/4) in [gagan3012/.github](https://github.com/gagan3012/.github)
+5. 🎉 Merged PR [#3](https://github.com/gagan3012/.github/pull/3) in [gagan3012/.github](https://github.com/gagan3012/.github)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
