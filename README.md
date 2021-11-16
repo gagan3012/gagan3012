@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 15th, 2021, 6:14:29 PM (GMT)
+Last Updated: Tuesday, November 16th, 2021, 12:50:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#29](https://github.com/gagan3012/mlapi/pull/29) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-2. 💪 Opened PR [#29](https://github.com/gagan3012/mlapi/pull/29) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-3. ❗️ Opened issue [#29](https://github.com/gagan3012/pyt/issues/29) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-4. 🎉 Merged PR [#28](https://github.com/gagan3012/pyt/pull/28) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-5. 💪 Opened PR [#28](https://github.com/gagan3012/pyt/pull/28) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+1. 🔱 Forked [gagan3012/Student-Connect-App](https://github.com/gagan3012/Student-Connect-App) from [UBC-CIC/Student-Connect-App](https://github.com/UBC-CIC/Student-Connect-App)
+2. 🎉 Merged PR [#29](https://github.com/gagan3012/mlapi/pull/29) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+3. 💪 Opened PR [#29](https://github.com/gagan3012/mlapi/pull/29) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+4. ❗️ Opened issue [#29](https://github.com/gagan3012/pyt/issues/29) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+5. 🎉 Merged PR [#28](https://github.com/gagan3012/pyt/pull/28) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
