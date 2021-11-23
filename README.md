@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 22nd, 2021, 6:17:49 PM (GMT)
+Last Updated: Tuesday, November 23rd, 2021, 12:50:35 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#30](https://github.com/gagan3012/mlapi/pull/30) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-2. 💪 Opened PR [#30](https://github.com/gagan3012/mlapi/pull/30) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-3. ⭐ Starred [wcipriano/pretty-print-confusion-matrix](https://github.com/wcipriano/pretty-print-confusion-matrix)
-4. 📔 Created new repository [gagan3012/Pegasus](https://github.com/gagan3012/Pegasus)
-5. 🔱 Forked [gagan3012/Student-Connect-App](https://github.com/gagan3012/Student-Connect-App) from [UBC-CIC/Student-Connect-App](https://github.com/UBC-CIC/Student-Connect-App)
+1. 🔱 Forked [gagan3012/deep-learning-project-template](https://github.com/gagan3012/deep-learning-project-template) from [PyTorchLightning/deep-learning-project-template](https://github.com/PyTorchLightning/deep-learning-project-template)
+2. ⭐ Starred [PyTorchLightning/deep-learning-project-template](https://github.com/PyTorchLightning/deep-learning-project-template)
+3. 🎉 Merged PR [#30](https://github.com/gagan3012/mlapi/pull/30) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+4. 💪 Opened PR [#30](https://github.com/gagan3012/mlapi/pull/30) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+5. ⭐ Starred [wcipriano/pretty-print-confusion-matrix](https://github.com/wcipriano/pretty-print-confusion-matrix)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
