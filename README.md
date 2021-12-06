@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 6th, 2021, 12:53:29 AM (GMT)
+Last Updated: Monday, December 6th, 2021, 6:18:34 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 👍 Approved [#3](https://github.com/UBC-CIC/Student-Connect-App/pull/3#pullrequestreview-823200899) in [UBC-CIC/Student-Connect-App](https://github.com/UBC-CIC/Student-Connect-App)
-2. 🔱 Forked [gagan3012/deep-learning-project-template](https://github.com/gagan3012/deep-learning-project-template) from [PyTorchLightning/deep-learning-project-template](https://github.com/PyTorchLightning/deep-learning-project-template)
-3. ⭐ Starred [PyTorchLightning/deep-learning-project-template](https://github.com/PyTorchLightning/deep-learning-project-template)
-4. 🎉 Merged PR [#30](https://github.com/gagan3012/mlapi/pull/30) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
-5. 💪 Opened PR [#30](https://github.com/gagan3012/mlapi/pull/30) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
+1. ⭐ Starred [abhishekkrthakur/autoxgb](https://github.com/abhishekkrthakur/autoxgb)
+2. 👍 Approved [#3](https://github.com/UBC-CIC/Student-Connect-App/pull/3#pullrequestreview-823200899) in [UBC-CIC/Student-Connect-App](https://github.com/UBC-CIC/Student-Connect-App)
+3. 🔱 Forked [gagan3012/deep-learning-project-template](https://github.com/gagan3012/deep-learning-project-template) from [PyTorchLightning/deep-learning-project-template](https://github.com/PyTorchLightning/deep-learning-project-template)
+4. ⭐ Starred [PyTorchLightning/deep-learning-project-template](https://github.com/PyTorchLightning/deep-learning-project-template)
+5. 🎉 Merged PR [#30](https://github.com/gagan3012/mlapi/pull/30) in [gagan3012/mlapi](https://github.com/gagan3012/mlapi)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
