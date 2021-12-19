@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 19th, 2021, 12:24:31 PM (GMT)
+Last Updated: Sunday, December 19th, 2021, 6:17:34 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/speech-denoiser](https://github.com/gagan3012/speech-denoiser)
-2. 🎉 Merged PR [#30](https://github.com/gagan3012/pyt/pull/30) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-3. 💪 Opened PR [#30](https://github.com/gagan3012/pyt/pull/30) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
-4. 🎉 Merged PR [#38](https://github.com/gagan3012/gagan3012/pull/38) in [gagan3012/gagan3012](https://github.com/gagan3012/gagan3012)
-5. ⭐ Starred [abhishekkrthakur/autoxgb](https://github.com/abhishekkrthakur/autoxgb)
+1. ⭐ Starred [UBC-NLP/DL2022](https://github.com/UBC-NLP/DL2022)
+2. 📔 Created new repository [gagan3012/speech-denoiser](https://github.com/gagan3012/speech-denoiser)
+3. 🎉 Merged PR [#30](https://github.com/gagan3012/pyt/pull/30) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+4. 💪 Opened PR [#30](https://github.com/gagan3012/pyt/pull/30) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+5. 🎉 Merged PR [#38](https://github.com/gagan3012/gagan3012/pull/38) in [gagan3012/gagan3012](https://github.com/gagan3012/gagan3012)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
