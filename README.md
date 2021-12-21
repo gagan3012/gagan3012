@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 20th, 2021, 6:18:34 PM (GMT)
+Last Updated: Tuesday, December 21st, 2021, 12:56:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [0xd3ba/sf2net](https://github.com/0xd3ba/sf2net)
-2. ⭐ Starred [UBC-NLP/dl-nlp-rg](https://github.com/UBC-NLP/dl-nlp-rg)
-3. ⭐ Starred [UBC-NLP/DL2022](https://github.com/UBC-NLP/DL2022)
-4. 📔 Created new repository [gagan3012/speech-denoiser](https://github.com/gagan3012/speech-denoiser)
-5. 🎉 Merged PR [#30](https://github.com/gagan3012/pyt/pull/30) in [gagan3012/pyt](https://github.com/gagan3012/pyt)
+1. ⭐ Starred [jmcasebeer/cost_aware_enhancement](https://github.com/jmcasebeer/cost_aware_enhancement)
+2. ⭐ Starred [jackhwalters/DRVCRN](https://github.com/jackhwalters/DRVCRN)
+3. ⭐ Starred [0xd3ba/sf2net](https://github.com/0xd3ba/sf2net)
+4. ⭐ Starred [UBC-NLP/dl-nlp-rg](https://github.com/UBC-NLP/dl-nlp-rg)
+5. ⭐ Starred [UBC-NLP/DL2022](https://github.com/UBC-NLP/DL2022)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
