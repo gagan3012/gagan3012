@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 2nd, 2022, 6:17:37 PM (GMT)
+Last Updated: Monday, January 3rd, 2022, 12:54:19 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
-2. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ⭐ Starred [huggingface/datasets](https://github.com/huggingface/datasets)
-4. ⭐ Starred [jmcasebeer/cost_aware_enhancement](https://github.com/jmcasebeer/cost_aware_enhancement)
-5. ⭐ Starred [jackhwalters/DRVCRN](https://github.com/jackhwalters/DRVCRN)
+1. ⭐ Starred [linkedin/greykite](https://github.com/linkedin/greykite)
+2. ⭐ Starred [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
+3. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ⭐ Starred [huggingface/datasets](https://github.com/huggingface/datasets)
+5. ⭐ Starred [jmcasebeer/cost_aware_enhancement](https://github.com/jmcasebeer/cost_aware_enhancement)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
