@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 12th, 2022, 6:19:49 AM (GMT)
+Last Updated: Wednesday, January 12th, 2022, 12:26:43 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [linkedin/greykite](https://github.com/linkedin/greykite)
-2. ⭐ Starred [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
-3. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ⭐ Starred [huggingface/datasets](https://github.com/huggingface/datasets)
-5. ⭐ Starred [jmcasebeer/cost_aware_enhancement](https://github.com/jmcasebeer/cost_aware_enhancement)
+1. ⭐ Starred [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode)
+2. ⭐ Starred [linkedin/greykite](https://github.com/linkedin/greykite)
+3. ⭐ Starred [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
+4. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ⭐ Starred [huggingface/datasets](https://github.com/huggingface/datasets)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
