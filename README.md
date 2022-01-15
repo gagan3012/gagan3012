@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 14th, 2022, 6:18:59 PM (GMT)
+Last Updated: Saturday, January 15th, 2022, 12:54:41 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode)
-2. ⭐ Starred [linkedin/greykite](https://github.com/linkedin/greykite)
-3. ⭐ Starred [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
-4. ⭐ Starred [microsoft/vscode](https://github.com/microsoft/vscode)
-5. ⭐ Starred [huggingface/datasets](https://github.com/huggingface/datasets)
+1. ⭐ Starred [0xd3ba/sf2net](https://github.com/0xd3ba/sf2net)
+2. ⭐ Starred [digitalepidemiologylab/covid-twitter-bert](https://github.com/digitalepidemiologylab/covid-twitter-bert)
+3. ⭐ Starred [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode)
+4. ⭐ Starred [linkedin/greykite](https://github.com/linkedin/greykite)
+5. ⭐ Starred [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
