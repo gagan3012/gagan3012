@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 17th, 2022, 6:19:12 PM (GMT)
+Last Updated: Tuesday, January 18th, 2022, 12:57:30 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [0xd3ba/sf2net](https://github.com/0xd3ba/sf2net)
-2. ⭐ Starred [digitalepidemiologylab/covid-twitter-bert](https://github.com/digitalepidemiologylab/covid-twitter-bert)
-3. ⭐ Starred [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode)
-4. ⭐ Starred [linkedin/greykite](https://github.com/linkedin/greykite)
-5. ⭐ Starred [ml5js/ml5-library](https://github.com/ml5js/ml5-library)
+1. 🔱 Forked [gagan3012/ManTraNet](https://github.com/gagan3012/ManTraNet) from [ISICV/ManTraNet](https://github.com/ISICV/ManTraNet)
+2. ⭐ Starred [ISICV/ManTraNet](https://github.com/ISICV/ManTraNet)
+3. ⭐ Starred [0xd3ba/sf2net](https://github.com/0xd3ba/sf2net)
+4. ⭐ Starred [digitalepidemiologylab/covid-twitter-bert](https://github.com/digitalepidemiologylab/covid-twitter-bert)
+5. ⭐ Starred [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
