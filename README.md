@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 18th, 2022, 6:19:13 PM (GMT)
+Last Updated: Wednesday, January 19th, 2022, 12:50:25 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [gagan3012/ManTraNet](https://github.com/gagan3012/ManTraNet) from [ISICV/ManTraNet](https://github.com/ISICV/ManTraNet)
-2. ⭐ Starred [ISICV/ManTraNet](https://github.com/ISICV/ManTraNet)
-3. ⭐ Starred [0xd3ba/sf2net](https://github.com/0xd3ba/sf2net)
-4. ⭐ Starred [digitalepidemiologylab/covid-twitter-bert](https://github.com/digitalepidemiologylab/covid-twitter-bert)
-5. ⭐ Starred [kensho-technologies/pyctcdecode](https://github.com/kensho-technologies/pyctcdecode)
+1. 🔱 Forked [gagan3012/BusterNet](https://github.com/gagan3012/BusterNet) from [isi-vista/BusterNet](https://github.com/isi-vista/BusterNet)
+2. ⭐ Starred [isi-vista/BusterNet](https://github.com/isi-vista/BusterNet)
+3. 🔱 Forked [gagan3012/ManTraNet-pytorch](https://github.com/gagan3012/ManTraNet-pytorch) from [RonyAbecidan/ManTraNet-pytorch](https://github.com/RonyAbecidan/ManTraNet-pytorch)
+4. ⭐ Starred [RonyAbecidan/ManTraNet-pytorch](https://github.com/RonyAbecidan/ManTraNet-pytorch)
+5. 🔱 Forked [gagan3012/ManTraNet](https://github.com/gagan3012/ManTraNet) from [ISICV/ManTraNet](https://github.com/ISICV/ManTraNet)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
