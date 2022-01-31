@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 31st, 2022, 6:17:46 AM (GMT)
+Last Updated: Monday, January 31st, 2022, 12:23:15 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [gagan3012/transformers](https://github.com/gagan3012/transformers) from [huggingface/transformers](https://github.com/huggingface/transformers)
-2. ⭐ Starred [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines)
-3. ⭐ Starred [lvwerra/trl](https://github.com/lvwerra/trl)
-4. 🔱 Forked [gagan3012/BusterNet](https://github.com/gagan3012/BusterNet) from [isi-vista/BusterNet](https://github.com/isi-vista/BusterNet)
-5. ⭐ Starred [isi-vista/BusterNet](https://github.com/isi-vista/BusterNet)
+1. ⭐ Starred [h2oai/doctr](https://github.com/h2oai/doctr)
+2. 🔱 Forked [gagan3012/transformers](https://github.com/gagan3012/transformers) from [huggingface/transformers](https://github.com/huggingface/transformers)
+3. ⭐ Starred [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines)
+4. ⭐ Starred [lvwerra/trl](https://github.com/lvwerra/trl)
+5. 🔱 Forked [gagan3012/BusterNet](https://github.com/gagan3012/BusterNet) from [isi-vista/BusterNet](https://github.com/isi-vista/BusterNet)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
