@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 31st, 2022, 6:17:03 PM (GMT)
+Last Updated: Tuesday, February 1st, 2022, 12:54:53 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [mindee/doctr](https://github.com/mindee/doctr)
-2. ⭐ Starred [h2oai/doctr](https://github.com/h2oai/doctr)
-3. 🔱 Forked [gagan3012/transformers](https://github.com/gagan3012/transformers) from [huggingface/transformers](https://github.com/huggingface/transformers)
-4. ⭐ Starred [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines)
-5. ⭐ Starred [lvwerra/trl](https://github.com/lvwerra/trl)
+1. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
+2. ⭐ Starred [mindee/doctr](https://github.com/mindee/doctr)
+3. ⭐ Starred [h2oai/doctr](https://github.com/h2oai/doctr)
+4. 🔱 Forked [gagan3012/transformers](https://github.com/gagan3012/transformers) from [huggingface/transformers](https://github.com/huggingface/transformers)
+5. ⭐ Starred [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
