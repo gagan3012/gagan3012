@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 4th, 2022, 6:15:05 PM (GMT)
+Last Updated: Saturday, February 5th, 2022, 12:45:35 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
-2. ⭐ Starred [mindee/doctr](https://github.com/mindee/doctr)
-3. ⭐ Starred [h2oai/doctr](https://github.com/h2oai/doctr)
-4. 🔱 Forked [gagan3012/transformers](https://github.com/gagan3012/transformers) from [huggingface/transformers](https://github.com/huggingface/transformers)
-5. ⭐ Starred [paperswithcode/ai-deadlines](https://github.com/paperswithcode/ai-deadlines)
+1. 📔 Created new repository [gagan3012/ViTGPT2-VW](https://github.com/gagan3012/ViTGPT2-VW)
+2. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
+3. ⭐ Starred [mindee/doctr](https://github.com/mindee/doctr)
+4. ⭐ Starred [h2oai/doctr](https://github.com/h2oai/doctr)
+5. 🔱 Forked [gagan3012/transformers](https://github.com/gagan3012/transformers) from [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
