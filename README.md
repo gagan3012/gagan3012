@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 7th, 2022, 6:17:53 AM (GMT)
+Last Updated: Monday, February 7th, 2022, 12:23:52 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#1](https://github.com/gagan3012/ViTGPT2-VW/pull/1) in [gagan3012/ViTGPT2-VW](https://github.com/gagan3012/ViTGPT2-VW)
-2. 💪 Opened PR [#1](https://github.com/gagan3012/ViTGPT2-VW/pull/1) in [gagan3012/ViTGPT2-VW](https://github.com/gagan3012/ViTGPT2-VW)
-3. 📔 Created new repository [gagan3012/ViTGPT2-VW](https://github.com/gagan3012/ViTGPT2-VW)
-4. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
-5. ⭐ Starred [mindee/doctr](https://github.com/mindee/doctr)
+1. 📔 Created new repository [gagan3012/image2audio](https://github.com/gagan3012/image2audio)
+2. 🎉 Merged PR [#1](https://github.com/gagan3012/ViTGPT2-VW/pull/1) in [gagan3012/ViTGPT2-VW](https://github.com/gagan3012/ViTGPT2-VW)
+3. 💪 Opened PR [#1](https://github.com/gagan3012/ViTGPT2-VW/pull/1) in [gagan3012/ViTGPT2-VW](https://github.com/gagan3012/ViTGPT2-VW)
+4. 📔 Created new repository [gagan3012/ViTGPT2-VW](https://github.com/gagan3012/ViTGPT2-VW)
+5. ⭐ Starred [openai/CLIP](https://github.com/openai/CLIP)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
