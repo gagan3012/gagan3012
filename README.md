@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 10th, 2022, 6:17:36 AM (GMT)
+Last Updated: Thursday, February 10th, 2022, 12:23:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#3](https://github.com/gagan3012/IMD/pull/3) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
-2. 💪 Opened PR [#3](https://github.com/gagan3012/IMD/pull/3) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
-3. 🎉 Merged PR [#2](https://github.com/gagan3012/IMD/pull/2) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
-4. 💪 Opened PR [#2](https://github.com/gagan3012/IMD/pull/2) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
-5. 🎉 Merged PR [#1](https://github.com/gagan3012/IMD/pull/1) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
+1. 🎉 Merged PR [#5](https://github.com/gagan3012/IMD/pull/5) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
+2. 💪 Opened PR [#5](https://github.com/gagan3012/IMD/pull/5) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
+3. 🎉 Merged PR [#4](https://github.com/gagan3012/IMD/pull/4) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
+4. 💪 Opened PR [#4](https://github.com/gagan3012/IMD/pull/4) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
+5. 🎉 Merged PR [#3](https://github.com/gagan3012/IMD/pull/3) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
