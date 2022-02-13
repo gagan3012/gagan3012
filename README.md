@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 12th, 2022, 6:16:42 PM (GMT)
+Last Updated: Sunday, February 13th, 2022, 12:58:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [nlpodyssey/spago](https://github.com/nlpodyssey/spago)
-2. 🎉 Merged PR [#1](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/1) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
-3. 📔 Created new repository [ubcdsc/awesome-ubc-readme](https://github.com/ubcdsc/awesome-ubc-readme)
-4. 📔 Created new repository [gagan3012/git-pod](https://github.com/gagan3012/git-pod)
-5. 🎉 Merged PR [#5](https://github.com/gagan3012/IMD/pull/5) in [gagan3012/IMD](https://github.com/gagan3012/IMD)
+1. 🎉 Merged PR [#3](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/3) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
+2. ❌ Closed PR [#2](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/2) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
+3. 🔱 Forked [gagan3012/awesome-ubc-profile-readme](https://github.com/gagan3012/awesome-ubc-profile-readme) from [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
+4. ⭐ Starred [nlpodyssey/spago](https://github.com/nlpodyssey/spago)
+5. 🎉 Merged PR [#1](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/1) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
