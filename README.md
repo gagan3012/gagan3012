@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, February 23rd, 2022, 6:16:34 PM (GMT)
+Last Updated: Thursday, February 24th, 2022, 1:00:53 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [TheoCoombes/CLIP-Image-Captioning](https://github.com/TheoCoombes/CLIP-Image-Captioning)
-2. 📔 Created new repository [gagan3012/git-drawing](https://github.com/gagan3012/git-drawing)
-3. 🎉 Merged PR [#8](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/8) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
-4. 🎉 Merged PR [#7](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/7) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
-5. 👍 Approved [#7](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/7#pullrequestreview-880935515) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
+1. ⭐ Starred [salesforce/BLIP](https://github.com/salesforce/BLIP)
+2. ⭐ Starred [TheoCoombes/CLIP-Image-Captioning](https://github.com/TheoCoombes/CLIP-Image-Captioning)
+3. 📔 Created new repository [gagan3012/git-drawing](https://github.com/gagan3012/git-drawing)
+4. 🎉 Merged PR [#8](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/8) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
+5. 🎉 Merged PR [#7](https://github.com/ubcdsc/awesome-ubc-profile-readme/pull/7) in [ubcdsc/awesome-ubc-profile-readme](https://github.com/ubcdsc/awesome-ubc-profile-readme)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
