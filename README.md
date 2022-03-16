@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 15th, 2022, 6:19:10 PM (GMT)
+Last Updated: Wednesday, March 16th, 2022, 1:05:04 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA)
-2. ⭐ Starred [aimagelab/camel](https://github.com/aimagelab/camel)
-3. ⭐ Starred [salesforce/BLIP](https://github.com/salesforce/BLIP)
-4. ⭐ Starred [TheoCoombes/CLIP-Image-Captioning](https://github.com/TheoCoombes/CLIP-Image-Captioning)
-5. 📔 Created new repository [gagan3012/git-drawing](https://github.com/gagan3012/git-drawing)
+1. ⭐ Starred [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection)
+2. ⭐ Starred [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA)
+3. ⭐ Starred [aimagelab/camel](https://github.com/aimagelab/camel)
+4. ⭐ Starred [salesforce/BLIP](https://github.com/salesforce/BLIP)
+5. ⭐ Starred [TheoCoombes/CLIP-Image-Captioning](https://github.com/TheoCoombes/CLIP-Image-Captioning)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
