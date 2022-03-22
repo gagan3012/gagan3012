@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 22nd, 2022, 6:19:42 AM (GMT)
+Last Updated: Tuesday, March 22nd, 2022, 12:28:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [abhishekkrthakur/tez](https://github.com/abhishekkrthakur/tez)
-2. ⭐ Starred [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
-3. ⭐ Starred [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection)
-4. ⭐ Starred [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA)
-5. ⭐ Starred [aimagelab/camel](https://github.com/aimagelab/camel)
+1. ⭐ Starred [Layout-Parser/layout-parser](https://github.com/Layout-Parser/layout-parser)
+2. ⭐ Starred [abhishekkrthakur/tez](https://github.com/abhishekkrthakur/tez)
+3. ⭐ Starred [DulLabs/bhai-lang](https://github.com/DulLabs/bhai-lang)
+4. ⭐ Starred [deepdoctection/deepdoctection](https://github.com/deepdoctection/deepdoctection)
+5. ⭐ Starred [OFA-Sys/OFA](https://github.com/OFA-Sys/OFA)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
