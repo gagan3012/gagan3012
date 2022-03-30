@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 29th, 2022, 6:19:17 PM (GMT)
+Last Updated: Wednesday, March 30th, 2022, 1:12:21 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [PrithivirajDamodaran/Alt-ZSC](https://github.com/PrithivirajDamodaran/Alt-ZSC)
-2. ⭐ Starred [jobergum/browser-ml-inference](https://github.com/jobergum/browser-ml-inference)
-3. ⭐ Starred [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
-4. ⭐ Starred [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
-5. ⭐ Starred [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers)
+1. ⭐ Starred [navervision/KELIP](https://github.com/navervision/KELIP)
+2. ⭐ Starred [PrithivirajDamodaran/Alt-ZSC](https://github.com/PrithivirajDamodaran/Alt-ZSC)
+3. ⭐ Starred [jobergum/browser-ml-inference](https://github.com/jobergum/browser-ml-inference)
+4. ⭐ Starred [keras-team/keras-nlp](https://github.com/keras-team/keras-nlp)
+5. ⭐ Starred [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
