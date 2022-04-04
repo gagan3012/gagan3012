@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 4th, 2022, 1:17:28 AM (GMT)
+Last Updated: Monday, April 4th, 2022, 6:20:24 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer)
-2. ⭐ Starred [mrm8488/shared_colab_notebooks](https://github.com/mrm8488/shared_colab_notebooks)
-3. ⭐ Starred [navervision/KELIP](https://github.com/navervision/KELIP)
-4. ⭐ Starred [PrithivirajDamodaran/Alt-ZSC](https://github.com/PrithivirajDamodaran/Alt-ZSC)
-5. ⭐ Starred [jobergum/browser-ml-inference](https://github.com/jobergum/browser-ml-inference)
+1. ⭐ Starred [drivendataorg/hateful-memes](https://github.com/drivendataorg/hateful-memes)
+2. ⭐ Starred [EricFillion/happy-transformer](https://github.com/EricFillion/happy-transformer)
+3. ⭐ Starred [mrm8488/shared_colab_notebooks](https://github.com/mrm8488/shared_colab_notebooks)
+4. ⭐ Starred [navervision/KELIP](https://github.com/navervision/KELIP)
+5. ⭐ Starred [PrithivirajDamodaran/Alt-ZSC](https://github.com/PrithivirajDamodaran/Alt-ZSC)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
