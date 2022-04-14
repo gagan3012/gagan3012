@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 14th, 2022, 6:20:56 AM (GMT)
+Last Updated: Thursday, April 14th, 2022, 12:32:36 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI)
-2. ⭐ Starred [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples)
-3. ⭐ Starred [cloudtools/troposphere](https://github.com/cloudtools/troposphere)
-4. 🔱 Forked [gagan3012/biomedical](https://github.com/gagan3012/biomedical) from [bigscience-workshop/biomedical](https://github.com/bigscience-workshop/biomedical)
-5. ⭐ Starred [amaiya/ktrain](https://github.com/amaiya/ktrain)
+1. ⭐ Starred [aws-samples/mlops-e2e](https://github.com/aws-samples/mlops-e2e)
+2. ⭐ Starred [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI)
+3. ⭐ Starred [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples)
+4. ⭐ Starred [cloudtools/troposphere](https://github.com/cloudtools/troposphere)
+5. 🔱 Forked [gagan3012/biomedical](https://github.com/gagan3012/biomedical) from [bigscience-workshop/biomedical](https://github.com/bigscience-workshop/biomedical)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
