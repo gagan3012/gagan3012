@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 16th, 2022, 1:12:29 AM (GMT)
+Last Updated: Saturday, April 16th, 2022, 6:19:17 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [aws-samples/mlops-e2e](https://github.com/aws-samples/mlops-e2e)
-2. ⭐ Starred [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI)
-3. ⭐ Starred [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples)
-4. ⭐ Starred [cloudtools/troposphere](https://github.com/cloudtools/troposphere)
-5. 🔱 Forked [gagan3012/biomedical](https://github.com/gagan3012/biomedical) from [bigscience-workshop/biomedical](https://github.com/bigscience-workshop/biomedical)
+1. 🎉 Merged PR [#73](https://github.com/gagan3012/keytotext/pull/73) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+2. ⭐ Starred [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
+3. ⭐ Starred [aws-samples/mlops-e2e](https://github.com/aws-samples/mlops-e2e)
+4. ⭐ Starred [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI)
+5. ⭐ Starred [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
