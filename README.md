@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 19th, 2022, 6:20:48 AM (GMT)
+Last Updated: Tuesday, April 19th, 2022, 12:33:54 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#73](https://github.com/gagan3012/keytotext/pull/73) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-2. ⭐ Starred [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
-3. ⭐ Starred [aws-samples/mlops-e2e](https://github.com/aws-samples/mlops-e2e)
-4. ⭐ Starred [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI)
-5. ⭐ Starred [aws/amazon-sagemaker-examples](https://github.com/aws/amazon-sagemaker-examples)
+1. ⭐ Starred [AlekseyKorshuk/huggingnft](https://github.com/AlekseyKorshuk/huggingnft)
+2. 🎉 Merged PR [#73](https://github.com/gagan3012/keytotext/pull/73) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+3. ⭐ Starred [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
+4. ⭐ Starred [aws-samples/mlops-e2e](https://github.com/aws-samples/mlops-e2e)
+5. ⭐ Starred [Cloud-CV/EvalAI](https://github.com/Cloud-CV/EvalAI)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
