@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 20th, 2022, 6:19:44 PM (GMT)
+Last Updated: Thursday, April 21st, 2022, 1:23:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal)
-2. ⭐ Starred [AlekseyKorshuk/huggingnft](https://github.com/AlekseyKorshuk/huggingnft)
-3. 🎉 Merged PR [#73](https://github.com/gagan3012/keytotext/pull/73) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-4. ⭐ Starred [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers)
-5. ⭐ Starred [aws-samples/mlops-e2e](https://github.com/aws-samples/mlops-e2e)
+1. ⭐ Starred [dali92002/DE-GAN](https://github.com/dali92002/DE-GAN)
+2. ⭐ Starred [huggingface/community-events](https://github.com/huggingface/community-events)
+3. ⭐ Starred [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal)
+4. ⭐ Starred [AlekseyKorshuk/huggingnft](https://github.com/AlekseyKorshuk/huggingnft)
+5. 🎉 Merged PR [#73](https://github.com/gagan3012/keytotext/pull/73) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
