@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 22nd, 2022, 6:20:49 AM (GMT)
+Last Updated: Friday, April 22nd, 2022, 12:32:02 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [salesforce/CodeGen](https://github.com/salesforce/CodeGen)
-2. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)
-3. ⭐ Starred [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
-4. ⭐ Starred [pytorch/fairseq](https://github.com/pytorch/fairseq)
-5. ⭐ Starred [dali92002/DE-GAN](https://github.com/dali92002/DE-GAN)
+1. ⭐ Starred [YoadTew/zero-shot-image-to-text](https://github.com/YoadTew/zero-shot-image-to-text)
+2. ⭐ Starred [alexa/massive](https://github.com/alexa/massive)
+3. ⭐ Starred [salesforce/CodeGen](https://github.com/salesforce/CodeGen)
+4. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)
+5. ⭐ Starred [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
