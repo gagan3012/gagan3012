@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 30th, 2022, 6:19:43 PM (GMT)
+Last Updated: Sunday, May 1st, 2022, 1:54:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/arocr](https://github.com/gagan3012/arocr)
-2. ⭐ Starred [YoadTew/zero-shot-image-to-text](https://github.com/YoadTew/zero-shot-image-to-text)
-3. ⭐ Starred [alexa/massive](https://github.com/alexa/massive)
-4. ⭐ Starred [salesforce/CodeGen](https://github.com/salesforce/CodeGen)
-5. ⭐ Starred [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox)
+1. ⭐ Starred [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)
+2. 📔 Created new repository [gagan3012/arocr](https://github.com/gagan3012/arocr)
+3. ⭐ Starred [YoadTew/zero-shot-image-to-text](https://github.com/YoadTew/zero-shot-image-to-text)
+4. ⭐ Starred [alexa/massive](https://github.com/alexa/massive)
+5. ⭐ Starred [salesforce/CodeGen](https://github.com/salesforce/CodeGen)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
