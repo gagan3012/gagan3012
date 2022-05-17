@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 17th, 2022, 12:34:36 PM (GMT)
+Last Updated: Tuesday, May 17th, 2022, 6:21:28 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [microsoft/table-transformer](https://github.com/microsoft/table-transformer)
-2. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)
-3. ⭐ Starred [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)
-4. 📔 Created new repository [gagan3012/arocr](https://github.com/gagan3012/arocr)
-5. ⭐ Starred [YoadTew/zero-shot-image-to-text](https://github.com/YoadTew/zero-shot-image-to-text)
+1. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+2. ⭐ Starred [microsoft/table-transformer](https://github.com/microsoft/table-transformer)
+3. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)
+4. ⭐ Starred [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api)
+5. 📔 Created new repository [gagan3012/arocr](https://github.com/gagan3012/arocr)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
