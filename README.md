@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 6th, 2022, 6:20:57 AM (GMT)
+Last Updated: Monday, June 6th, 2022, 12:34:10 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Textualize/rich](https://github.com/Textualize/rich)
-2. 🎉 Merged PR [#1](https://github.com/UBC-NLP/OCR/pull/1) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-3. 👍 Approved [#1](https://github.com/UBC-NLP/OCR/pull/1#pullrequestreview-988671603) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-4. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-5. ⭐ Starred [microsoft/table-transformer](https://github.com/microsoft/table-transformer)
+1. 🔱 Forked [gagan3012/document_denoising](https://github.com/gagan3012/document_denoising) from [GianniBalistreri/document_denoising](https://github.com/GianniBalistreri/document_denoising)
+2. ⭐ Starred [Textualize/rich](https://github.com/Textualize/rich)
+3. 🎉 Merged PR [#1](https://github.com/UBC-NLP/OCR/pull/1) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+4. 👍 Approved [#1](https://github.com/UBC-NLP/OCR/pull/1#pullrequestreview-988671603) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+5. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
