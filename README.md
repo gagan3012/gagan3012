@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 20th, 2022, 12:31:17 PM (GMT)
+Last Updated: Monday, June 20th, 2022, 6:20:23 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [gokcedilek/BAGEL](https://github.com/gokcedilek/BAGEL)
-2. ⭐ Starred [UBC-NLP/turjuman](https://github.com/UBC-NLP/turjuman)
-3. ⭐ Starred [sugatoray/code-share](https://github.com/sugatoray/code-share)
-4. 🔱 Forked [gagan3012/document_denoising](https://github.com/gagan3012/document_denoising) from [GianniBalistreri/document_denoising](https://github.com/GianniBalistreri/document_denoising)
-5. ⭐ Starred [Textualize/rich](https://github.com/Textualize/rich)
+1. ⭐ Starred [salesforce/TaiChi](https://github.com/salesforce/TaiChi)
+2. ⭐ Starred [gokcedilek/BAGEL](https://github.com/gokcedilek/BAGEL)
+3. ⭐ Starred [UBC-NLP/turjuman](https://github.com/UBC-NLP/turjuman)
+4. ⭐ Starred [sugatoray/code-share](https://github.com/sugatoray/code-share)
+5. 🔱 Forked [gagan3012/document_denoising](https://github.com/gagan3012/document_denoising) from [GianniBalistreri/document_denoising](https://github.com/GianniBalistreri/document_denoising)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
