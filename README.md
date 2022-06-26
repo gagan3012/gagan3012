@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, June 26th, 2022, 6:18:50 AM (GMT)
+Last Updated: Sunday, June 26th, 2022, 12:28:07 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#7](https://github.com/UBC-NLP/OCR/pull/7) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-2. ⭐ Starred [clopen/ClosedAI](https://github.com/clopen/ClosedAI)
-3. ⭐ Starred [salesforce/TaiChi](https://github.com/salesforce/TaiChi)
-4. ⭐ Starred [gokcedilek/BAGEL](https://github.com/gokcedilek/BAGEL)
-5. ⭐ Starred [UBC-NLP/turjuman](https://github.com/UBC-NLP/turjuman)
+1. ⭐ Starred [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
+2. 💪 Opened PR [#7](https://github.com/UBC-NLP/OCR/pull/7) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+3. ⭐ Starred [clopen/ClosedAI](https://github.com/clopen/ClosedAI)
+4. ⭐ Starred [salesforce/TaiChi](https://github.com/salesforce/TaiChi)
+5. ⭐ Starred [gokcedilek/BAGEL](https://github.com/gokcedilek/BAGEL)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
