@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, July 15th, 2022, 6:20:33 PM (GMT)
+Last Updated: Saturday, July 16th, 2022, 1:43:38 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-2. 💪 Opened PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-3. ⭐ Starred [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
-4. 💪 Opened PR [#7](https://github.com/UBC-NLP/OCR/pull/7) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-5. ⭐ Starred [clopen/ClosedAI](https://github.com/clopen/ClosedAI)
+1. ⭐ Starred [unionai-oss/unionml](https://github.com/unionai-oss/unionml)
+2. 🎉 Merged PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+3. 💪 Opened PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+4. ⭐ Starred [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
+5. 💪 Opened PR [#7](https://github.com/UBC-NLP/OCR/pull/7) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
