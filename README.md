@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 19th, 2022, 6:22:28 PM (GMT)
+Last Updated: Wednesday, July 20th, 2022, 1:42:20 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [unionai-oss/unionml](https://github.com/unionai-oss/unionml)
-2. 🎉 Merged PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-3. 💪 Opened PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-4. ⭐ Starred [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
-5. 💪 Opened PR [#7](https://github.com/UBC-NLP/OCR/pull/7) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+1. ⭐ Starred [him4318/Transformer-ocr](https://github.com/him4318/Transformer-ocr)
+2. ⭐ Starred [unionai-oss/unionml](https://github.com/unionai-oss/unionml)
+3. 🎉 Merged PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+4. 💪 Opened PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+5. ⭐ Starred [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
