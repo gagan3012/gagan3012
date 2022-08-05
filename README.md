@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 4th, 2022, 6:21:01 PM (GMT)
+Last Updated: Friday, August 5th, 2022, 1:43:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [him4318/Transformer-ocr](https://github.com/him4318/Transformer-ocr)
-2. ⭐ Starred [unionai-oss/unionml](https://github.com/unionai-oss/unionml)
-3. 🎉 Merged PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-4. 💪 Opened PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
-5. ⭐ Starred [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
+1. 📔 Created new repository [gagan3012/BiLSTM-CTC](https://github.com/gagan3012/BiLSTM-CTC)
+2. ⭐ Starred [him4318/Transformer-ocr](https://github.com/him4318/Transformer-ocr)
+3. ⭐ Starred [unionai-oss/unionml](https://github.com/unionai-oss/unionml)
+4. 🎉 Merged PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
+5. 💪 Opened PR [#9](https://github.com/UBC-NLP/OCR/pull/9) in [UBC-NLP/OCR](https://github.com/UBC-NLP/OCR)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
