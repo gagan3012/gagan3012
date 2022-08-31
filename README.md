@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 30th, 2022, 6:21:12 PM (GMT)
+Last Updated: Wednesday, August 31st, 2022, 2:11:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#18619](https://github.com/huggingface/transformers/issues/18619) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. ⭐ Starred [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)
-3. 📔 Created new repository [gagan3012/BiLSTM-CTC](https://github.com/gagan3012/BiLSTM-CTC)
-4. ⭐ Starred [him4318/Transformer-ocr](https://github.com/him4318/Transformer-ocr)
-5. ⭐ Starred [unionai-oss/unionml](https://github.com/unionai-oss/unionml)
+1. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
+2. 📔 Created new repository [gagan3012/nlp-htn](https://github.com/gagan3012/nlp-htn)
+3. ❗️ Opened issue [#18619](https://github.com/huggingface/transformers/issues/18619) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. ⭐ Starred [ashleve/lightning-hydra-template](https://github.com/ashleve/lightning-hydra-template)
+5. 📔 Created new repository [gagan3012/BiLSTM-CTC](https://github.com/gagan3012/BiLSTM-CTC)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
