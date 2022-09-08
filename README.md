@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 7th, 2022, 6:22:15 PM (GMT)
+Last Updated: Thursday, September 8th, 2022, 1:56:27 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset)
-2. 🎉 Merged PR [#38](https://github.com/gagan3012/streamlit-tags/pull/38) in [gagan3012/streamlit-tags](https://github.com/gagan3012/streamlit-tags)
-3. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
-4. 📔 Created new repository [gagan3012/nlp-htn](https://github.com/gagan3012/nlp-htn)
-5. ❗️ Opened issue [#18619](https://github.com/huggingface/transformers/issues/18619) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. ✔️ Closed issue [#18619](https://github.com/huggingface/transformers/issues/18619) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. ⭐ Starred [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset)
+3. 🎉 Merged PR [#38](https://github.com/gagan3012/streamlit-tags/pull/38) in [gagan3012/streamlit-tags](https://github.com/gagan3012/streamlit-tags)
+4. ⭐ Starred [huggingface/diffusers](https://github.com/huggingface/diffusers)
+5. 📔 Created new repository [gagan3012/nlp-htn](https://github.com/gagan3012/nlp-htn)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
