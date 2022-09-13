@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 13th, 2022, 12:39:14 PM (GMT)
+Last Updated: Tuesday, September 13th, 2022, 6:23:28 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#1880](https://github.com/kornia/kornia/pull/1880) in [kornia/kornia](https://github.com/kornia/kornia)
-2. 🔱 Forked [gagan3012/kornia](https://github.com/gagan3012/kornia) from [kornia/kornia](https://github.com/kornia/kornia)
-3. ⭐ Starred [kornia/kornia](https://github.com/kornia/kornia)
-4. ✔️ Closed issue [#18619](https://github.com/huggingface/transformers/issues/18619) in [huggingface/transformers](https://github.com/huggingface/transformers)
-5. ⭐ Starred [kakaobrain/coyo-dataset](https://github.com/kakaobrain/coyo-dataset)
+1. ⭐ Starred [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)
+2. 💪 Opened PR [#1880](https://github.com/kornia/kornia/pull/1880) in [kornia/kornia](https://github.com/kornia/kornia)
+3. 🔱 Forked [gagan3012/kornia](https://github.com/gagan3012/kornia) from [kornia/kornia](https://github.com/kornia/kornia)
+4. ⭐ Starred [kornia/kornia](https://github.com/kornia/kornia)
+5. ✔️ Closed issue [#18619](https://github.com/huggingface/transformers/issues/18619) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
