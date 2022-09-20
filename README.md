@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 20th, 2022, 12:38:05 PM (GMT)
+Last Updated: Tuesday, September 20th, 2022, 6:23:47 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [salesforce/LAVIS](https://github.com/salesforce/LAVIS)
-2. ⭐ Starred [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)
-3. 💪 Opened PR [#1880](https://github.com/kornia/kornia/pull/1880) in [kornia/kornia](https://github.com/kornia/kornia)
-4. 🔱 Forked [gagan3012/kornia](https://github.com/gagan3012/kornia) from [kornia/kornia](https://github.com/kornia/kornia)
-5. ⭐ Starred [kornia/kornia](https://github.com/kornia/kornia)
+1. ⭐ Starred [impira/docquery](https://github.com/impira/docquery)
+2. ⭐ Starred [salesforce/LAVIS](https://github.com/salesforce/LAVIS)
+3. ⭐ Starred [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)
+4. 💪 Opened PR [#1880](https://github.com/kornia/kornia/pull/1880) in [kornia/kornia](https://github.com/kornia/kornia)
+5. 🔱 Forked [gagan3012/kornia](https://github.com/gagan3012/kornia) from [kornia/kornia](https://github.com/kornia/kornia)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
