@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, September 25th, 2022, 1:59:15 AM (GMT)
+Last Updated: Sunday, September 25th, 2022, 6:25:34 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#19174](https://github.com/huggingface/transformers/pull/19174) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. ⭐ Starred [impira/docquery](https://github.com/impira/docquery)
-3. ⭐ Starred [salesforce/LAVIS](https://github.com/salesforce/LAVIS)
-4. ⭐ Starred [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)
-5. 💪 Opened PR [#1880](https://github.com/kornia/kornia/pull/1880) in [kornia/kornia](https://github.com/kornia/kornia)
+1. ⭐ Starred [jonatasgrosman/huggingsound](https://github.com/jonatasgrosman/huggingsound)
+2. 💪 Opened PR [#19174](https://github.com/huggingface/transformers/pull/19174) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. ⭐ Starred [impira/docquery](https://github.com/impira/docquery)
+4. ⭐ Starred [salesforce/LAVIS](https://github.com/salesforce/LAVIS)
+5. ⭐ Starred [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
