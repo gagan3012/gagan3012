@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 16th, 2022, 2:08:19 AM (GMT)
+Last Updated: Sunday, October 16th, 2022, 6:28:31 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [da03/markup2im](https://github.com/da03/markup2im)
-2. ⭐ Starred [jonatasgrosman/huggingsound](https://github.com/jonatasgrosman/huggingsound)
-3. 💪 Opened PR [#19174](https://github.com/huggingface/transformers/pull/19174) in [huggingface/transformers](https://github.com/huggingface/transformers)
-4. ⭐ Starred [impira/docquery](https://github.com/impira/docquery)
-5. ⭐ Starred [salesforce/LAVIS](https://github.com/salesforce/LAVIS)
+1. ⭐ Starred [dhansmair/flamingo-mini](https://github.com/dhansmair/flamingo-mini)
+2. ⭐ Starred [da03/markup2im](https://github.com/da03/markup2im)
+3. ⭐ Starred [jonatasgrosman/huggingsound](https://github.com/jonatasgrosman/huggingsound)
+4. 💪 Opened PR [#19174](https://github.com/huggingface/transformers/pull/19174) in [huggingface/transformers](https://github.com/huggingface/transformers)
+5. ⭐ Starred [impira/docquery](https://github.com/impira/docquery)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
