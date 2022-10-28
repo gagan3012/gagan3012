@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 27th, 2022, 6:26:42 PM (GMT)
+Last Updated: Friday, October 28th, 2022, 1:53:19 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [aditya10/VLC-BERT](https://github.com/aditya10/VLC-BERT)
-2. ⭐ Starred [XiangLi1999/Diffusion-LM](https://github.com/XiangLi1999/Diffusion-LM)
-3. ⭐ Starred [Open-Speech-EkStep/ULCA-asr-dataset-corpus](https://github.com/Open-Speech-EkStep/ULCA-asr-dataset-corpus)
-4. ⭐ Starred [tmabraham/UPIT](https://github.com/tmabraham/UPIT)
-5. ⭐ Starred [dhansmair/flamingo-mini](https://github.com/dhansmair/flamingo-mini)
+1. ⭐ Starred [tcl9876/Diffusion-Handwriting-Generation](https://github.com/tcl9876/Diffusion-Handwriting-Generation)
+2. ⭐ Starred [aditya10/VLC-BERT](https://github.com/aditya10/VLC-BERT)
+3. ⭐ Starred [XiangLi1999/Diffusion-LM](https://github.com/XiangLi1999/Diffusion-LM)
+4. ⭐ Starred [Open-Speech-EkStep/ULCA-asr-dataset-corpus](https://github.com/Open-Speech-EkStep/ULCA-asr-dataset-corpus)
+5. ⭐ Starred [tmabraham/UPIT](https://github.com/tmabraham/UPIT)
 <!--RECENT_ACTIVITY:end-->
 
 ![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
