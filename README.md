@@ -38,6 +38,12 @@ Last Updated: Monday, November 14th, 2022, 1:27:46 AM (GMT)
 5. ⭐ Starred [samdobson/image_slicer](https://github.com/samdobson/image_slicer)
 <!--RECENT_ACTIVITY:end-->
 
-![Alt Text](https://github.com/gagan3012/gagan3012/blob/output/github-contribution-grid-snake.gif)
-
-![Metrics](https://github.com/gagan3012/gagan3012/blob/main/github-metrics.svg)
+<!-- BEGIN LIST -->
+|   ⭐ | name                                                                  | description                                                                                                          |   created |
+|-----:|:----------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|----------:|
+|  343 | [keytotext](https://github.com/gagan3012/keytotext)                   | Keywords to Sentences                                                                                                |      2021 |
+|  105 | [streamlit-tags](https://github.com/gagan3012/streamlit-tags)         | Custom Tag component for streamlit                                                                                   |      2021 |
+|  100 | [project-code-py](https://github.com/gagan3012/project-code-py)       | Leetcode using AI                                                                                                    |      2021 |
+|    4 | [DomainGAN](https://github.com/gagan3012/DomainGAN)                   | Paper Implementation of DomainGAN: Generating Adversarial Examples to Attack Domain Generation Algorithm Classifiers |      2021 |
+|    4 | [Fox-News-Generator](https://github.com/gagan3012/Fox-News-Generator) | Generating Right-Wing News Using GPT-2                                                                               |      2021 |
+<!-- END LIST -->
