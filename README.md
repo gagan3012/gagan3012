@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 28th, 2022, 6:19:32 PM (GMT)
+Last Updated: Tuesday, November 29th, 2022, 1:18:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#20358](https://github.com/huggingface/transformers/issues/20358) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. 📔 Created new repository [gagan3012/julia](https://github.com/gagan3012/julia)
-3. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
-4. 🔱 Forked [gagan3012/hack-la-2022](https://github.com/gagan3012/hack-la-2022) from [UBC-LA-Hackathon/hack-la-2022](https://github.com/UBC-LA-Hackathon/hack-la-2022)
-5. 💪 Opened PR [#49](https://github.com/samdobson/image_slicer/pull/49) in [samdobson/image_slicer](https://github.com/samdobson/image_slicer)
+1. ⭐ Starred [arxyzan/data2vec-pytorch](https://github.com/arxyzan/data2vec-pytorch)
+2. ❗️ Opened issue [#20358](https://github.com/huggingface/transformers/issues/20358) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. 📔 Created new repository [gagan3012/julia](https://github.com/gagan3012/julia)
+4. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+5. 🔱 Forked [gagan3012/hack-la-2022](https://github.com/gagan3012/hack-la-2022) from [UBC-LA-Hackathon/hack-la-2022](https://github.com/UBC-LA-Hackathon/hack-la-2022)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
