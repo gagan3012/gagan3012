@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 29th, 2022, 6:18:27 PM (GMT)
+Last Updated: Wednesday, November 30th, 2022, 1:18:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#45](https://github.com/tunib-ai/parallelformers/issues/45) in [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers)
-2. ⭐ Starred [arxyzan/data2vec-pytorch](https://github.com/arxyzan/data2vec-pytorch)
-3. ❗️ Opened issue [#20358](https://github.com/huggingface/transformers/issues/20358) in [huggingface/transformers](https://github.com/huggingface/transformers)
-4. 📔 Created new repository [gagan3012/julia](https://github.com/gagan3012/julia)
-5. ⭐ Starred [mingrammer/diagrams](https://github.com/mingrammer/diagrams)
+1. 📔 Created new repository [gagan3012/data2vec](https://github.com/gagan3012/data2vec)
+2. ❗️ Opened issue [#45](https://github.com/tunib-ai/parallelformers/issues/45) in [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers)
+3. ⭐ Starred [arxyzan/data2vec-pytorch](https://github.com/arxyzan/data2vec-pytorch)
+4. ❗️ Opened issue [#20358](https://github.com/huggingface/transformers/issues/20358) in [huggingface/transformers](https://github.com/huggingface/transformers)
+5. 📔 Created new repository [gagan3012/julia](https://github.com/gagan3012/julia)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
