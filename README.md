@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 5th, 2022, 6:18:53 AM (GMT)
+Last Updated: Monday, December 5th, 2022, 12:29:00 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/data2vec](https://github.com/gagan3012/data2vec)
-2. ❗️ Opened issue [#45](https://github.com/tunib-ai/parallelformers/issues/45) in [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers)
-3. ⭐ Starred [arxyzan/data2vec-pytorch](https://github.com/arxyzan/data2vec-pytorch)
-4. ❗️ Opened issue [#20358](https://github.com/huggingface/transformers/issues/20358) in [huggingface/transformers](https://github.com/huggingface/transformers)
-5. 📔 Created new repository [gagan3012/julia](https://github.com/gagan3012/julia)
+1. ⭐ Starred [ChristophReich1996/Swin-Transformer-V2](https://github.com/ChristophReich1996/Swin-Transformer-V2)
+2. 📔 Created new repository [gagan3012/data2vec](https://github.com/gagan3012/data2vec)
+3. ❗️ Opened issue [#45](https://github.com/tunib-ai/parallelformers/issues/45) in [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers)
+4. ⭐ Starred [arxyzan/data2vec-pytorch](https://github.com/arxyzan/data2vec-pytorch)
+5. ❗️ Opened issue [#20358](https://github.com/huggingface/transformers/issues/20358) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
