@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, December 8th, 2022, 6:17:58 PM (GMT)
+Last Updated: Friday, December 9th, 2022, 1:14:17 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
-2. ⭐ Starred [ChristophReich1996/Swin-Transformer-V2](https://github.com/ChristophReich1996/Swin-Transformer-V2)
-3. 📔 Created new repository [gagan3012/data2vec](https://github.com/gagan3012/data2vec)
-4. ❗️ Opened issue [#45](https://github.com/tunib-ai/parallelformers/issues/45) in [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers)
-5. ⭐ Starred [arxyzan/data2vec-pytorch](https://github.com/arxyzan/data2vec-pytorch)
+1. ⭐ Starred [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+2. ⭐ Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
+3. ⭐ Starred [ChristophReich1996/Swin-Transformer-V2](https://github.com/ChristophReich1996/Swin-Transformer-V2)
+4. 📔 Created new repository [gagan3012/data2vec](https://github.com/gagan3012/data2vec)
+5. ❗️ Opened issue [#45](https://github.com/tunib-ai/parallelformers/issues/45) in [tunib-ai/parallelformers](https://github.com/tunib-ai/parallelformers)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
