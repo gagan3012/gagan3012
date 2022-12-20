@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 19th, 2022, 6:17:54 PM (GMT)
+Last Updated: Tuesday, December 20th, 2022, 1:11:08 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [CarperAI/trlx](https://github.com/CarperAI/trlx)
-2. ⭐ Starred [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
-3. ⭐ Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
-4. ⭐ Starred [ChristophReich1996/Swin-Transformer-V2](https://github.com/ChristophReich1996/Swin-Transformer-V2)
-5. 📔 Created new repository [gagan3012/data2vec](https://github.com/gagan3012/data2vec)
+1. ⭐ Starred [anthropics/evals](https://github.com/anthropics/evals)
+2. ⭐ Starred [CarperAI/trlx](https://github.com/CarperAI/trlx)
+3. ⭐ Starred [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+4. ⭐ Starred [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT)
+5. ⭐ Starred [ChristophReich1996/Swin-Transformer-V2](https://github.com/ChristophReich1996/Swin-Transformer-V2)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
