@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 13th, 2023, 6:17:19 PM (GMT)
+Last Updated: Saturday, January 14th, 2023, 1:08:21 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
-2. ⭐ Starred [openai/point-e](https://github.com/openai/point-e)
-3. ⭐ Starred [anthropics/evals](https://github.com/anthropics/evals)
-4. ⭐ Starred [CarperAI/trlx](https://github.com/CarperAI/trlx)
-5. ⭐ Starred [rwightman/pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
+1. 📔 Created new repository [gagan3012/edos](https://github.com/gagan3012/edos)
+2. 🎉 Merged PR [#83](https://github.com/gagan3012/keytotext/pull/83) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
+3. ⭐ Starred [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+4. ⭐ Starred [openai/point-e](https://github.com/openai/point-e)
+5. ⭐ Starred [anthropics/evals](https://github.com/anthropics/evals)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
