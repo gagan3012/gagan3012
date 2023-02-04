@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 3rd, 2023, 6:17:45 PM (GMT)
+Last Updated: Saturday, February 4th, 2023, 1:10:46 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [gagan3012/AfriSenti](https://github.com/gagan3012/AfriSenti)
-2. 📔 Created new repository [gagan3012/AfriSenti](https://github.com/gagan3012/AfriSenti)
-3. 📔 Created new repository [gagan3012/edos](https://github.com/gagan3012/edos)
-4. 🎉 Merged PR [#83](https://github.com/gagan3012/keytotext/pull/83) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
-5. ⭐ Starred [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)
+1. ⭐ Starred [huggingface/fuego](https://github.com/huggingface/fuego)
+2. ⭐ Starred [gagan3012/AfriSenti](https://github.com/gagan3012/AfriSenti)
+3. 📔 Created new repository [gagan3012/AfriSenti](https://github.com/gagan3012/AfriSenti)
+4. 📔 Created new repository [gagan3012/edos](https://github.com/gagan3012/edos)
+5. 🎉 Merged PR [#83](https://github.com/gagan3012/keytotext/pull/83) in [gagan3012/keytotext](https://github.com/gagan3012/keytotext)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
