@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 14th, 2023, 6:19:21 AM (GMT)
+Last Updated: Tuesday, February 14th, 2023, 12:30:42 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
-2. ⭐ Starred [huggingface/fuego](https://github.com/huggingface/fuego)
-3. ⭐ Starred [gagan3012/AfriSenti](https://github.com/gagan3012/AfriSenti)
-4. 📔 Created new repository [gagan3012/AfriSenti](https://github.com/gagan3012/AfriSenti)
-5. 📔 Created new repository [gagan3012/edos](https://github.com/gagan3012/edos)
+1. 📔 Created new repository [gagan3012/deep-learning](https://github.com/gagan3012/deep-learning)
+2. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
+3. ⭐ Starred [huggingface/fuego](https://github.com/huggingface/fuego)
+4. ⭐ Starred [gagan3012/AfriSenti](https://github.com/gagan3012/AfriSenti)
+5. 📔 Created new repository [gagan3012/AfriSenti](https://github.com/gagan3012/AfriSenti)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
