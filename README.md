@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 7th, 2023, 6:19:02 PM (GMT)
+Last Updated: Wednesday, March 8th, 2023, 1:20:13 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)
-2. ⭐ Starred [shivamraval98/MultiTask-T5_AE](https://github.com/shivamraval98/MultiTask-T5_AE)
-3. 📔 Created new repository [gagan3012/deep-learning](https://github.com/gagan3012/deep-learning)
-4. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
-5. ⭐ Starred [huggingface/fuego](https://github.com/huggingface/fuego)
+1. ❗️ Opened issue [#158](https://github.com/huggingface/peft/issues/158) in [huggingface/peft](https://github.com/huggingface/peft)
+2. ⭐ Starred [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)
+3. ⭐ Starred [shivamraval98/MultiTask-T5_AE](https://github.com/shivamraval98/MultiTask-T5_AE)
+4. 📔 Created new repository [gagan3012/deep-learning](https://github.com/gagan3012/deep-learning)
+5. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
