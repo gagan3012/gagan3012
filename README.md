@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 9th, 2023, 6:18:23 PM (GMT)
+Last Updated: Friday, March 10th, 2023, 1:18:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#158](https://github.com/huggingface/peft/issues/158) in [huggingface/peft](https://github.com/huggingface/peft)
-2. ⭐ Starred [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)
-3. ⭐ Starred [shivamraval98/MultiTask-T5_AE](https://github.com/shivamraval98/MultiTask-T5_AE)
-4. 📔 Created new repository [gagan3012/deep-learning](https://github.com/gagan3012/deep-learning)
-5. ⭐ Starred [huggingface/peft](https://github.com/huggingface/peft)
+1. ⭐ Starred [merveenoyan/my_notes](https://github.com/merveenoyan/my_notes)
+2. ❗️ Opened issue [#158](https://github.com/huggingface/peft/issues/158) in [huggingface/peft](https://github.com/huggingface/peft)
+3. ⭐ Starred [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)
+4. ⭐ Starred [shivamraval98/MultiTask-T5_AE](https://github.com/shivamraval98/MultiTask-T5_AE)
+5. 📔 Created new repository [gagan3012/deep-learning](https://github.com/gagan3012/deep-learning)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
