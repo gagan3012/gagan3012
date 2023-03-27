@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, March 27th, 2023, 1:07:55 AM (GMT)
+Last Updated: Monday, March 27th, 2023, 6:18:15 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)
-2. ⭐ Starred [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge)
-3. ⭐ Starred [22-hours/cabrita](https://github.com/22-hours/cabrita)
-4. 📔 Created new repository [gagan3012/IDSF](https://github.com/gagan3012/IDSF)
-5. ⭐ Starred [setzer22/llama-rs](https://github.com/setzer22/llama-rs)
+1. ⭐ Starred [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain)
+2. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)
+3. ⭐ Starred [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge)
+4. ⭐ Starred [22-hours/cabrita](https://github.com/22-hours/cabrita)
+5. 📔 Created new repository [gagan3012/IDSF](https://github.com/gagan3012/IDSF)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
