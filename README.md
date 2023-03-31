@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 31st, 2023, 6:18:01 AM (GMT)
+Last Updated: Friday, March 31st, 2023, 12:26:33 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain)
-2. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)
-3. ⭐ Starred [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge)
-4. ⭐ Starred [22-hours/cabrita](https://github.com/22-hours/cabrita)
-5. 📔 Created new repository [gagan3012/IDSF](https://github.com/gagan3012/IDSF)
+1. ❗️ Opened issue [#22485](https://github.com/huggingface/transformers/issues/22485) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. ⭐ Starred [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain)
+3. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)
+4. ⭐ Starred [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge)
+5. ⭐ Starred [22-hours/cabrita](https://github.com/22-hours/cabrita)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
