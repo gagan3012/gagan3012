@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 5th, 2023, 6:19:05 PM (GMT)
+Last Updated: Thursday, April 6th, 2023, 1:04:30 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
-2. ❗️ Opened issue [#22485](https://github.com/huggingface/transformers/issues/22485) in [huggingface/transformers](https://github.com/huggingface/transformers)
-3. ⭐ Starred [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain)
-4. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)
-5. ⭐ Starred [jtmuller5/The-HustleGPT-Challenge](https://github.com/jtmuller5/The-HustleGPT-Challenge)
+1. ⭐ Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
+2. ⭐ Starred [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+3. ❗️ Opened issue [#22485](https://github.com/huggingface/transformers/issues/22485) in [huggingface/transformers](https://github.com/huggingface/transformers)
+4. ⭐ Starred [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain)
+5. ⭐ Starred [hwchase17/langchain](https://github.com/hwchase17/langchain)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
