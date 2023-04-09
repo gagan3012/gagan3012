@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, April 9th, 2023, 1:08:19 AM (GMT)
+Last Updated: Sunday, April 9th, 2023, 6:15:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
-2. ⭐ Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
-3. ⭐ Starred [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
-4. ❗️ Opened issue [#22485](https://github.com/huggingface/transformers/issues/22485) in [huggingface/transformers](https://github.com/huggingface/transformers)
-5. ⭐ Starred [hwchase17/chat-langchain](https://github.com/hwchase17/chat-langchain)
+1. ⭐ Starred [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch)
+2. ⭐ Starred [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
+3. ⭐ Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
+4. ⭐ Starred [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+5. ❗️ Opened issue [#22485](https://github.com/huggingface/transformers/issues/22485) in [huggingface/transformers](https://github.com/huggingface/transformers)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
