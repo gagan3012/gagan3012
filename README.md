@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 12th, 2023, 1:06:36 AM (GMT)
+Last Updated: Wednesday, April 12th, 2023, 6:17:20 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [microsoft/UniCL](https://github.com/microsoft/UniCL)
-2. ⭐ Starred [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch)
-3. ⭐ Starred [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
-4. ⭐ Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
-5. ⭐ Starred [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week)
+1. 💪 Opened PR [#22714](https://github.com/huggingface/transformers/pull/22714) in [huggingface/transformers](https://github.com/huggingface/transformers)
+2. ⭐ Starred [microsoft/UniCL](https://github.com/microsoft/UniCL)
+3. ⭐ Starred [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch)
+4. ⭐ Starred [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
+5. ⭐ Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
