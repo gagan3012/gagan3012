@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 14th, 2023, 1:07:00 AM (GMT)
+Last Updated: Friday, April 14th, 2023, 6:17:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#22714](https://github.com/huggingface/transformers/pull/22714) in [huggingface/transformers](https://github.com/huggingface/transformers)
-2. ⭐ Starred [microsoft/UniCL](https://github.com/microsoft/UniCL)
-3. ⭐ Starred [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch)
-4. ⭐ Starred [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
-5. ⭐ Starred [microsoft/JARVIS](https://github.com/microsoft/JARVIS)
+1. ⭐ Starred [pygongnlp/PT-M2](https://github.com/pygongnlp/PT-M2)
+2. 💪 Opened PR [#22714](https://github.com/huggingface/transformers/pull/22714) in [huggingface/transformers](https://github.com/huggingface/transformers)
+3. ⭐ Starred [microsoft/UniCL](https://github.com/microsoft/UniCL)
+4. ⭐ Starred [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch)
+5. ⭐ Starred [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
