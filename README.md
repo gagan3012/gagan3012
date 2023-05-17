@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 16th, 2023, 6:15:54 PM (GMT)
+Last Updated: Wednesday, May 17th, 2023, 1:10:52 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [s-JoL/Open-Llama](https://github.com/s-JoL/Open-Llama)
-2. ⭐ Starred [baaivision/EVA](https://github.com/baaivision/EVA)
-3. 📔 Created new repository [gagan3012/web](https://github.com/gagan3012/web)
-4. ⭐ Starred [pygongnlp/PT-M2](https://github.com/pygongnlp/PT-M2)
-5. 💪 Opened PR [#22714](https://github.com/huggingface/transformers/pull/22714) in [huggingface/transformers](https://github.com/huggingface/transformers)
+1. 📔 Created new repository [gagan3012/araocr](https://github.com/gagan3012/araocr)
+2. ⭐ Starred [s-JoL/Open-Llama](https://github.com/s-JoL/Open-Llama)
+3. ⭐ Starred [baaivision/EVA](https://github.com/baaivision/EVA)
+4. 📔 Created new repository [gagan3012/web](https://github.com/gagan3012/web)
+5. ⭐ Starred [pygongnlp/PT-M2](https://github.com/pygongnlp/PT-M2)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
