@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, June 12th, 2023, 1:21:12 AM (GMT)
+Last Updated: Monday, June 12th, 2023, 6:17:28 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/eagle](https://github.com/gagan3012/eagle)
-2. ❗️ Opened issue [#8](https://github.com/cofe-ai/fast-gector/issues/8) in [cofe-ai/fast-gector](https://github.com/cofe-ai/fast-gector)
-3. 📔 Created new repository [gagan3012/araocr](https://github.com/gagan3012/araocr)
-4. ⭐ Starred [s-JoL/Open-Llama](https://github.com/s-JoL/Open-Llama)
-5. ⭐ Starred [baaivision/EVA](https://github.com/baaivision/EVA)
+1. ⭐ Starred [Neutralzz/BiLLa](https://github.com/Neutralzz/BiLLa)
+2. 📔 Created new repository [gagan3012/eagle](https://github.com/gagan3012/eagle)
+3. ❗️ Opened issue [#8](https://github.com/cofe-ai/fast-gector/issues/8) in [cofe-ai/fast-gector](https://github.com/cofe-ai/fast-gector)
+4. 📔 Created new repository [gagan3012/araocr](https://github.com/gagan3012/araocr)
+5. ⭐ Starred [s-JoL/Open-Llama](https://github.com/s-JoL/Open-Llama)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
