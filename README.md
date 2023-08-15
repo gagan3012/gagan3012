@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 15th, 2023, 12:55:47 AM (GMT)
+Last Updated: Tuesday, August 15th, 2023, 6:15:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
-2. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
-3. ⭐ Starred [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat)
-4. 🔱 Forked [gagan3012/dr-claude](https://github.com/gagan3012/dr-claude) from [fadynakhla/dr-claude](https://github.com/fadynakhla/dr-claude)
-5. ⭐ Starred [fadynakhla/dr-claude](https://github.com/fadynakhla/dr-claude)
+1. ⭐ Starred [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)
+2. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
+3. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+4. ⭐ Starred [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat)
+5. 🔱 Forked [gagan3012/dr-claude](https://github.com/gagan3012/dr-claude) from [fadynakhla/dr-claude](https://github.com/fadynakhla/dr-claude)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
