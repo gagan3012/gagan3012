@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 15th, 2023, 6:14:53 PM (GMT)
+Last Updated: Wednesday, August 16th, 2023, 12:55:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)
-2. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
-3. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
-4. ⭐ Starred [minimaxir/simpleaichat](https://github.com/minimaxir/simpleaichat)
-5. 🔱 Forked [gagan3012/dr-claude](https://github.com/gagan3012/dr-claude) from [fadynakhla/dr-claude](https://github.com/fadynakhla/dr-claude)
+1. 📔 Created new repository [gagan3012/llama-tdlr](https://github.com/gagan3012/llama-tdlr)
+2. ⭐ Starred [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
+3. ⭐ Starred [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)
+4. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
+5. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
