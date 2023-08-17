@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, August 17th, 2023, 12:54:49 AM (GMT)
+Last Updated: Thursday, August 17th, 2023, 6:15:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/llama-tdlr](https://github.com/gagan3012/llama-tdlr)
-2. ⭐ Starred [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
-3. ⭐ Starred [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)
-4. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
-5. ⭐ Starred [vllm-project/vllm](https://github.com/vllm-project/vllm)
+1. ⭐ Starred [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt)
+2. 📔 Created new repository [gagan3012/llama-tdlr](https://github.com/gagan3012/llama-tdlr)
+3. ⭐ Starred [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
+4. ⭐ Starred [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)
+5. ⭐ Starred [huggingface/candle](https://github.com/huggingface/candle)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
