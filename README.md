@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, August 29th, 2023, 6:16:37 AM (GMT)
+Last Updated: Tuesday, August 29th, 2023, 12:24:47 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [gregor-ge/mBLIP](https://github.com/gregor-ge/mBLIP)
-2. ⭐ Starred [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt)
-3. 📔 Created new repository [gagan3012/llama-tdlr](https://github.com/gagan3012/llama-tdlr)
-4. ⭐ Starred [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
-5. ⭐ Starred [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index)
+1. ⭐ Starred [alexandra-chron/hierarchical-domain-adaptation](https://github.com/alexandra-chron/hierarchical-domain-adaptation)
+2. ⭐ Starred [gregor-ge/mBLIP](https://github.com/gregor-ge/mBLIP)
+3. ⭐ Starred [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt)
+4. 📔 Created new repository [gagan3012/llama-tdlr](https://github.com/gagan3012/llama-tdlr)
+5. ⭐ Starred [hiyouga/LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
