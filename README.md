@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, September 4th, 2023, 12:57:52 AM (GMT)
+Last Updated: Monday, September 4th, 2023, 6:17:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [jondurbin/airoboros](https://github.com/jondurbin/airoboros)
-2. 📔 Created new repository [gagan3012/llama-moe](https://github.com/gagan3012/llama-moe)
-3. ⭐ Starred [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe)
-4. ⭐ Starred [alexandra-chron/hierarchical-domain-adaptation](https://github.com/alexandra-chron/hierarchical-domain-adaptation)
-5. ⭐ Starred [gregor-ge/mBLIP](https://github.com/gregor-ge/mBLIP)
+1. ⭐ Starred [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+2. ⭐ Starred [jondurbin/airoboros](https://github.com/jondurbin/airoboros)
+3. 📔 Created new repository [gagan3012/llama-moe](https://github.com/gagan3012/llama-moe)
+4. ⭐ Starred [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe)
+5. ⭐ Starred [alexandra-chron/hierarchical-domain-adaptation](https://github.com/alexandra-chron/hierarchical-domain-adaptation)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
