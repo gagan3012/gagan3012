@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 5th, 2023, 6:15:50 PM (GMT)
+Last Updated: Wednesday, September 6th, 2023, 12:57:11 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [XueFuzhao/OpenMoE](https://github.com/XueFuzhao/OpenMoE)
-2. ⭐ Starred [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)
-3. ⭐ Starred [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
-4. ⭐ Starred [jondurbin/airoboros](https://github.com/jondurbin/airoboros)
-5. 📔 Created new repository [gagan3012/llama-moe](https://github.com/gagan3012/llama-moe)
+1. 📔 Created new repository [gagan3012/llama-train](https://github.com/gagan3012/llama-train)
+2. ⭐ Starred [XueFuzhao/OpenMoE](https://github.com/XueFuzhao/OpenMoE)
+3. ⭐ Starred [jzhang38/TinyLlama](https://github.com/jzhang38/TinyLlama)
+4. ⭐ Starred [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+5. ⭐ Starred [jondurbin/airoboros](https://github.com/jondurbin/airoboros)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
