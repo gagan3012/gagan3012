@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 14th, 2023, 6:17:02 AM (GMT)
+Last Updated: Thursday, September 14th, 2023, 12:25:09 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [gagan3012/open-interpreter](https://github.com/gagan3012/open-interpreter) from [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
-2. ⭐ Starred [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
-3. ⭐ Starred [aicrumb/MoLora](https://github.com/aicrumb/MoLora)
-4. 📔 Created new repository [gagan3012/llama-train](https://github.com/gagan3012/llama-train)
-5. ⭐ Starred [XueFuzhao/OpenMoE](https://github.com/XueFuzhao/OpenMoE)
+1. ⭐ Starred [IBM/ModuleFormer](https://github.com/IBM/ModuleFormer)
+2. 🔱 Forked [gagan3012/hydra-moe](https://github.com/gagan3012/hydra-moe) from [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe)
+3. 🔱 Forked [gagan3012/open-interpreter](https://github.com/gagan3012/open-interpreter) from [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+4. ⭐ Starred [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+5. ⭐ Starred [aicrumb/MoLora](https://github.com/aicrumb/MoLora)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
