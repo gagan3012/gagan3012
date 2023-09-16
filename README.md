@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 16th, 2023, 12:56:14 AM (GMT)
+Last Updated: Saturday, September 16th, 2023, 6:15:03 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [IBM/ModuleFormer](https://github.com/IBM/ModuleFormer)
-2. 🔱 Forked [gagan3012/hydra-moe](https://github.com/gagan3012/hydra-moe) from [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe)
-3. 🔱 Forked [gagan3012/open-interpreter](https://github.com/gagan3012/open-interpreter) from [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
-4. ⭐ Starred [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
-5. ⭐ Starred [aicrumb/MoLora](https://github.com/aicrumb/MoLora)
+1. ⭐ Starred [nicknochnack/Llama2RAG](https://github.com/nicknochnack/Llama2RAG)
+2. ⭐ Starred [laylacodes/terminalsite-main](https://github.com/laylacodes/terminalsite-main)
+3. ⭐ Starred [IBM/ModuleFormer](https://github.com/IBM/ModuleFormer)
+4. 🔱 Forked [gagan3012/hydra-moe](https://github.com/gagan3012/hydra-moe) from [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe)
+5. 🔱 Forked [gagan3012/open-interpreter](https://github.com/gagan3012/open-interpreter) from [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
