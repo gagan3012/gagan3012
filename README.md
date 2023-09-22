@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, September 21st, 2023, 6:16:54 PM (GMT)
+Last Updated: Friday, September 22nd, 2023, 12:58:02 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
-2. ⭐ Starred [nicknochnack/Llama2RAG](https://github.com/nicknochnack/Llama2RAG)
-3. ⭐ Starred [laylacodes/terminalsite-main](https://github.com/laylacodes/terminalsite-main)
-4. ⭐ Starred [IBM/ModuleFormer](https://github.com/IBM/ModuleFormer)
-5. 🔱 Forked [gagan3012/hydra-moe](https://github.com/gagan3012/hydra-moe) from [SkunkworksAI/hydra-moe](https://github.com/SkunkworksAI/hydra-moe)
+1. 🎉 Merged PR [#1](https://github.com/gagan3012/llama-tldr/pull/1) in [gagan3012/llama-tldr](https://github.com/gagan3012/llama-tldr)
+2. ⭐ Starred [jquesnelle/yarn](https://github.com/jquesnelle/yarn)
+3. ⭐ Starred [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
+4. ⭐ Starred [nicknochnack/Llama2RAG](https://github.com/nicknochnack/Llama2RAG)
+5. ⭐ Starred [laylacodes/terminalsite-main](https://github.com/laylacodes/terminalsite-main)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
