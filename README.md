@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, September 23rd, 2023, 12:56:05 AM (GMT)
+Last Updated: Saturday, September 23rd, 2023, 6:15:31 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA)
-2. 🎉 Merged PR [#1](https://github.com/gagan3012/llama-tldr/pull/1) in [gagan3012/llama-tldr](https://github.com/gagan3012/llama-tldr)
-3. ⭐ Starred [jquesnelle/yarn](https://github.com/jquesnelle/yarn)
-4. ⭐ Starred [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
-5. ⭐ Starred [nicknochnack/Llama2RAG](https://github.com/nicknochnack/Llama2RAG)
+1. ⭐ Starred [young-geng/EasyLM](https://github.com/young-geng/EasyLM)
+2. ⭐ Starred [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA)
+3. 🎉 Merged PR [#1](https://github.com/gagan3012/llama-tldr/pull/1) in [gagan3012/llama-tldr](https://github.com/gagan3012/llama-tldr)
+4. ⭐ Starred [jquesnelle/yarn](https://github.com/jquesnelle/yarn)
+5. ⭐ Starred [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
