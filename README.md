@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 26th, 2023, 6:16:44 PM (GMT)
+Last Updated: Wednesday, September 27th, 2023, 12:58:26 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm)
-2. ⭐ Starred [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
-3. ⭐ Starred [young-geng/EasyLM](https://github.com/young-geng/EasyLM)
-4. ⭐ Starred [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA)
-5. 🎉 Merged PR [#1](https://github.com/gagan3012/llama-tldr/pull/1) in [gagan3012/llama-tldr](https://github.com/gagan3012/llama-tldr)
+1. ⭐ Starred [FreedomIntelligence/AceGPT](https://github.com/FreedomIntelligence/AceGPT)
+2. ⭐ Starred [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm)
+3. ⭐ Starred [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
+4. ⭐ Starred [young-geng/EasyLM](https://github.com/young-geng/EasyLM)
+5. ⭐ Starred [dvlab-research/LongLoRA](https://github.com/dvlab-research/LongLoRA)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
