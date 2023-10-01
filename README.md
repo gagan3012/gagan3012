@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, October 1st, 2023, 6:16:00 AM (GMT)
+Last Updated: Sunday, October 1st, 2023, 12:23:04 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/data](https://github.com/gagan3012/data)
-2. ⭐ Starred [FreedomIntelligence/AceGPT](https://github.com/FreedomIntelligence/AceGPT)
-3. ⭐ Starred [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm)
-4. ⭐ Starred [anthropics/anthropic-cookbook](https://github.com/anthropics/anthropic-cookbook)
-5. ⭐ Starred [young-geng/EasyLM](https://github.com/young-geng/EasyLM)
+1. ⭐ Starred [yuhuixu1993/qa-lora](https://github.com/yuhuixu1993/qa-lora)
+2. ⭐ Starred [qcri/LLMeBench](https://github.com/qcri/LLMeBench)
+3. 📔 Created new repository [gagan3012/data](https://github.com/gagan3012/data)
+4. ⭐ Starred [FreedomIntelligence/AceGPT](https://github.com/FreedomIntelligence/AceGPT)
+5. ⭐ Starred [mlfoundations/open_lm](https://github.com/mlfoundations/open_lm)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
