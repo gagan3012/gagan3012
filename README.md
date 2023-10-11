@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 10th, 2023, 6:17:24 PM (GMT)
+Last Updated: Wednesday, October 11th, 2023, 12:57:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [tomaarsen/attention_sinks](https://github.com/tomaarsen/attention_sinks)
-2. ⭐ Starred [yuhuixu1993/qa-lora](https://github.com/yuhuixu1993/qa-lora)
-3. ⭐ Starred [qcri/LLMeBench](https://github.com/qcri/LLMeBench)
-4. 📔 Created new repository [gagan3012/data](https://github.com/gagan3012/data)
-5. ⭐ Starred [FreedomIntelligence/AceGPT](https://github.com/FreedomIntelligence/AceGPT)
+1. ⭐ Starred [huggingface/alignment-handbook](https://github.com/huggingface/alignment-handbook)
+2. ⭐ Starred [tomaarsen/attention_sinks](https://github.com/tomaarsen/attention_sinks)
+3. ⭐ Starred [yuhuixu1993/qa-lora](https://github.com/yuhuixu1993/qa-lora)
+4. ⭐ Starred [qcri/LLMeBench](https://github.com/qcri/LLMeBench)
+5. 📔 Created new repository [gagan3012/data](https://github.com/gagan3012/data)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
