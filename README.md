@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 17th, 2023, 1:01:42 AM (GMT)
+Last Updated: Friday, November 17th, 2023, 6:17:50 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [gagan3012/data](https://github.com/gagan3012/data)
-2. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-3. 📔 Created new repository [gagan3012/output](https://github.com/gagan3012/output)
-4. ⭐ Starred [hitz-zentroa/This-is-not-a-Dataset](https://github.com/hitz-zentroa/This-is-not-a-Dataset)
-5. ⭐ Starred [SkunkworksAI/BakLLaVA](https://github.com/SkunkworksAI/BakLLaVA)
+1. ⭐ Starred [cg123/mergekit](https://github.com/cg123/mergekit)
+2. ⭐ Starred [gagan3012/data](https://github.com/gagan3012/data)
+3. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+4. 📔 Created new repository [gagan3012/output](https://github.com/gagan3012/output)
+5. ⭐ Starred [hitz-zentroa/This-is-not-a-Dataset](https://github.com/hitz-zentroa/This-is-not-a-Dataset)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
