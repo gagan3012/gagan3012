@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, November 24th, 2023, 6:16:18 PM (GMT)
+Last Updated: Saturday, November 25th, 2023, 12:58:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [cg123/mergekit](https://github.com/cg123/mergekit)
-2. ⭐ Starred [gagan3012/data](https://github.com/gagan3012/data)
-3. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
-4. 📔 Created new repository [gagan3012/output](https://github.com/gagan3012/output)
-5. ⭐ Starred [hitz-zentroa/This-is-not-a-Dataset](https://github.com/hitz-zentroa/This-is-not-a-Dataset)
+1. ⭐ Starred [Sripaad/MinHash-LSH-Deduplicate](https://github.com/Sripaad/MinHash-LSH-Deduplicate)
+2. ❗️ Opened issue [#5](https://github.com/FreedomIntelligence/AceGPT/issues/5) in [FreedomIntelligence/AceGPT](https://github.com/FreedomIntelligence/AceGPT)
+3. ⭐ Starred [cg123/mergekit](https://github.com/cg123/mergekit)
+4. ⭐ Starred [gagan3012/data](https://github.com/gagan3012/data)
+5. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
