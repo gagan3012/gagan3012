@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 27th, 2023, 6:17:50 AM (GMT)
+Last Updated: Monday, November 27th, 2023, 12:26:35 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [apoorvumang/prompt-lookup-decoding](https://github.com/apoorvumang/prompt-lookup-decoding)
-2. ⭐ Starred [Sripaad/MinHash-LSH-Deduplicate](https://github.com/Sripaad/MinHash-LSH-Deduplicate)
-3. ❗️ Opened issue [#5](https://github.com/FreedomIntelligence/AceGPT/issues/5) in [FreedomIntelligence/AceGPT](https://github.com/FreedomIntelligence/AceGPT)
-4. ⭐ Starred [cg123/mergekit](https://github.com/cg123/mergekit)
-5. ⭐ Starred [gagan3012/data](https://github.com/gagan3012/data)
+1. 🎉 Merged PR [#5](https://github.com/gagan3012/PolyDeDupe/pull/5) in [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+2. 📔 Created new repository [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+3. ⭐ Starred [allenai/python-package-template](https://github.com/allenai/python-package-template)
+4. ⭐ Starred [apoorvumang/prompt-lookup-decoding](https://github.com/apoorvumang/prompt-lookup-decoding)
+5. ⭐ Starred [Sripaad/MinHash-LSH-Deduplicate](https://github.com/Sripaad/MinHash-LSH-Deduplicate)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
