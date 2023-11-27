@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 27th, 2023, 1:01:52 AM (GMT)
+Last Updated: Monday, November 27th, 2023, 6:17:50 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Sripaad/MinHash-LSH-Deduplicate](https://github.com/Sripaad/MinHash-LSH-Deduplicate)
-2. ❗️ Opened issue [#5](https://github.com/FreedomIntelligence/AceGPT/issues/5) in [FreedomIntelligence/AceGPT](https://github.com/FreedomIntelligence/AceGPT)
-3. ⭐ Starred [cg123/mergekit](https://github.com/cg123/mergekit)
-4. ⭐ Starred [gagan3012/data](https://github.com/gagan3012/data)
-5. ⭐ Starred [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)
+1. ⭐ Starred [apoorvumang/prompt-lookup-decoding](https://github.com/apoorvumang/prompt-lookup-decoding)
+2. ⭐ Starred [Sripaad/MinHash-LSH-Deduplicate](https://github.com/Sripaad/MinHash-LSH-Deduplicate)
+3. ❗️ Opened issue [#5](https://github.com/FreedomIntelligence/AceGPT/issues/5) in [FreedomIntelligence/AceGPT](https://github.com/FreedomIntelligence/AceGPT)
+4. ⭐ Starred [cg123/mergekit](https://github.com/cg123/mergekit)
+5. ⭐ Starred [gagan3012/data](https://github.com/gagan3012/data)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
