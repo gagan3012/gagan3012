@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, November 28th, 2023, 6:17:50 AM (GMT)
+Last Updated: Tuesday, November 28th, 2023, 12:26:15 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [uukuguy/multi_loras](https://github.com/uukuguy/multi_loras)
-2. 🎉 Merged PR [#5](https://github.com/gagan3012/PolyDeDupe/pull/5) in [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
-3. 📔 Created new repository [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
-4. ⭐ Starred [allenai/python-package-template](https://github.com/allenai/python-package-template)
-5. ⭐ Starred [apoorvumang/prompt-lookup-decoding](https://github.com/apoorvumang/prompt-lookup-decoding)
+1. 🎉 Merged PR [#1](https://github.com/gagan3012/PolyDeDupe/pull/1) in [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+2. 🎉 Merged PR [#3](https://github.com/gagan3012/PolyDeDupe/pull/3) in [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+3. 🎉 Merged PR [#4](https://github.com/gagan3012/PolyDeDupe/pull/4) in [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+4. ⭐ Starred [uukuguy/multi_loras](https://github.com/uukuguy/multi_loras)
+5. 🎉 Merged PR [#5](https://github.com/gagan3012/PolyDeDupe/pull/5) in [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
