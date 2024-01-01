@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 1st, 2024, 12:24:53 PM (GMT)
+Last Updated: Monday, January 1st, 2024, 6:16:47 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
-2. 📔 Created new repository [gagan3012/translate](https://github.com/gagan3012/translate)
-3. 📔 Created new repository [gagan3012/ARAGEC](https://github.com/gagan3012/ARAGEC)
-4. 📔 Created new repository [gagan3012/gradio-tags](https://github.com/gagan3012/gradio-tags)
-5. 🎉 Merged PR [#1](https://github.com/gagan3012/PolyDeDupe/pull/1) in [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+1. ⭐ Starred [hkust-nlp/deita](https://github.com/hkust-nlp/deita)
+2. ⭐ Starred [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+3. 📔 Created new repository [gagan3012/translate](https://github.com/gagan3012/translate)
+4. 📔 Created new repository [gagan3012/ARAGEC](https://github.com/gagan3012/ARAGEC)
+5. 📔 Created new repository [gagan3012/gradio-tags](https://github.com/gagan3012/gradio-tags)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
