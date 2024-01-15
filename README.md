@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 15th, 2024, 6:18:56 AM (GMT)
+Last Updated: Monday, January 15th, 2024, 12:26:37 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [hkust-nlp/deita](https://github.com/hkust-nlp/deita)
-2. ⭐ Starred [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
-3. 📔 Created new repository [gagan3012/translate](https://github.com/gagan3012/translate)
-4. 📔 Created new repository [gagan3012/ARAGEC](https://github.com/gagan3012/ARAGEC)
-5. 📔 Created new repository [gagan3012/gradio-tags](https://github.com/gagan3012/gradio-tags)
+1. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+2. ⭐ Starred [hkust-nlp/deita](https://github.com/hkust-nlp/deita)
+3. ⭐ Starred [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+4. 📔 Created new repository [gagan3012/translate](https://github.com/gagan3012/translate)
+5. 📔 Created new repository [gagan3012/ARAGEC](https://github.com/gagan3012/ARAGEC)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
