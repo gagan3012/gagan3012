@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 29th, 2024, 12:23:47 PM (GMT)
+Last Updated: Monday, January 29th, 2024, 6:15:27 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)
-2. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
-3. ⭐ Starred [hkust-nlp/deita](https://github.com/hkust-nlp/deita)
-4. ⭐ Starred [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
-5. 📔 Created new repository [gagan3012/translate](https://github.com/gagan3012/translate)
+1. ⭐ Starred [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)
+2. ⭐ Starred [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+3. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
+4. ⭐ Starred [hkust-nlp/deita](https://github.com/hkust-nlp/deita)
+5. ⭐ Starred [BradyFU/Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
