@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, January 31st, 2024, 6:12:43 PM (GMT)
+Last Updated: Thursday, February 1st, 2024, 1:01:33 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
-2. ⭐ Starred [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)
-3. ⭐ Starred [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)
-4. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
-5. ⭐ Starred [hkust-nlp/deita](https://github.com/hkust-nlp/deita)
+1. 📔 Created new repository [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
+2. ⭐ Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+3. ⭐ Starred [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)
+4. ⭐ Starred [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)
+5. ⭐ Starred [mlabonne/llm-course](https://github.com/mlabonne/llm-course)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
