@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 6th, 2024, 6:14:16 PM (GMT)
+Last Updated: Wednesday, February 7th, 2024, 12:56:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/Fintral](https://github.com/gagan3012/Fintral)
-2. ⭐ Starred [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
-3. 📔 Created new repository [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
-4. ⭐ Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
-5. ⭐ Starred [PKU-YuanGroup/MoE-LLaVA](https://github.com/PKU-YuanGroup/MoE-LLaVA)
+1. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+2. 📔 Created new repository [gagan3012/Fintral](https://github.com/gagan3012/Fintral)
+3. ⭐ Starred [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
+4. 📔 Created new repository [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
+5. ⭐ Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
