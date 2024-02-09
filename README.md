@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, February 9th, 2024, 12:22:55 PM (GMT)
+Last Updated: Friday, February 9th, 2024, 6:15:51 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
-2. 📔 Created new repository [gagan3012/Fintral](https://github.com/gagan3012/Fintral)
-3. ⭐ Starred [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
-4. 📔 Created new repository [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
-5. ⭐ Starred [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)
+1. ⭐ Starred [cognitivecomputations/laserRMT](https://github.com/cognitivecomputations/laserRMT)
+2. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
+3. 📔 Created new repository [gagan3012/Fintral](https://github.com/gagan3012/Fintral)
+4. ⭐ Starred [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
+5. 📔 Created new repository [gagan3012/self_rewarding_models](https://github.com/gagan3012/self_rewarding_models)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
