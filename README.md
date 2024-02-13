@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, February 13th, 2024, 12:58:34 AM (GMT)
+Last Updated: Tuesday, February 13th, 2024, 6:18:06 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [guidance-ai/guidance](https://github.com/guidance-ai/guidance)
-2. 📔 Created new repository [gagan3012/egy_eval_images](https://github.com/gagan3012/egy_eval_images)
-3. ⭐ Starred [cognitivecomputations/laserRMT](https://github.com/cognitivecomputations/laserRMT)
-4. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
-5. 📔 Created new repository [gagan3012/Fintral](https://github.com/gagan3012/Fintral)
+1. ⭐ Starred [VikParuchuri/surya](https://github.com/VikParuchuri/surya)
+2. ⭐ Starred [guidance-ai/guidance](https://github.com/guidance-ai/guidance)
+3. 📔 Created new repository [gagan3012/egy_eval_images](https://github.com/gagan3012/egy_eval_images)
+4. ⭐ Starred [cognitivecomputations/laserRMT](https://github.com/cognitivecomputations/laserRMT)
+5. ⭐ Starred [unslothai/unsloth](https://github.com/unslothai/unsloth)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
