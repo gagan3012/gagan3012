@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, March 8th, 2024, 12:57:42 AM (GMT)
+Last Updated: Friday, March 8th, 2024, 6:16:31 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
-2. ❗️ Opened issue [#59](https://github.com/huggingface/lighteval/issues/59) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
-3. ⭐ Starred [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)
-4. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
-5. ⭐ Starred [OpenSafetyLab/SALAD-BENCH](https://github.com/OpenSafetyLab/SALAD-BENCH)
+1. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
+2. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
+3. ❗️ Opened issue [#59](https://github.com/huggingface/lighteval/issues/59) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
+4. ⭐ Starred [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)
+5. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
