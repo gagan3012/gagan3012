@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 14th, 2024, 6:15:57 PM (GMT)
+Last Updated: Friday, March 15th, 2024, 12:58:43 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
-2. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
-3. ❗️ Opened issue [#59](https://github.com/huggingface/lighteval/issues/59) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
-4. ⭐ Starred [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)
-5. ⭐ Starred [astral-sh/uv](https://github.com/astral-sh/uv)
+1. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
+2. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
+3. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
+4. ❗️ Opened issue [#59](https://github.com/huggingface/lighteval/issues/59) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
+5. ⭐ Starred [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
