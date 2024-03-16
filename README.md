@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 16th, 2024, 6:15:33 AM (GMT)
+Last Updated: Saturday, March 16th, 2024, 12:24:22 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
-2. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
-3. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
-4. ❗️ Opened issue [#59](https://github.com/huggingface/lighteval/issues/59) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
-5. ⭐ Starred [bodaay/HuggingFaceModelDownloader](https://github.com/bodaay/HuggingFaceModelDownloader)
+1. ⭐ Starred [Oxen-AI/Self-Rewarding-Language-Models](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
+2. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
+3. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
+4. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
+5. ❗️ Opened issue [#59](https://github.com/huggingface/lighteval/issues/59) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
