@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 17th, 2024, 1:02:03 AM (GMT)
+Last Updated: Sunday, March 17th, 2024, 6:15:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Oxen-AI/Self-Rewarding-Language-Models](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
-2. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
-3. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
-4. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
-5. ❗️ Opened issue [#59](https://github.com/huggingface/lighteval/issues/59) in [huggingface/lighteval](https://github.com/huggingface/lighteval)
+1. ⭐ Starred [xfactlab/orpo](https://github.com/xfactlab/orpo)
+2. ⭐ Starred [Oxen-AI/Self-Rewarding-Language-Models](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
+3. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
+4. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
+5. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
