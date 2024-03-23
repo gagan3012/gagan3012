@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 23rd, 2024, 12:57:11 AM (GMT)
+Last Updated: Saturday, March 23rd, 2024, 6:20:07 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [xfactlab/orpo](https://github.com/xfactlab/orpo)
-2. ⭐ Starred [Oxen-AI/Self-Rewarding-Language-Models](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
-3. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
-4. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
-5. ⭐ Starred [ContextualAI/gritlm](https://github.com/ContextualAI/gritlm)
+1. ❗️ Opened issue [#1473](https://github.com/huggingface/trl/issues/1473) in [huggingface/trl](https://github.com/huggingface/trl)
+2. ⭐ Starred [xfactlab/orpo](https://github.com/xfactlab/orpo)
+3. ⭐ Starred [Oxen-AI/Self-Rewarding-Language-Models](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
+4. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
+5. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
