@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 9th, 2024, 6:15:17 PM (GMT)
+Last Updated: Wednesday, April 10th, 2024, 12:58:56 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#1473](https://github.com/huggingface/trl/issues/1473) in [huggingface/trl](https://github.com/huggingface/trl)
-2. ⭐ Starred [xfactlab/orpo](https://github.com/xfactlab/orpo)
-3. ⭐ Starred [Oxen-AI/Self-Rewarding-Language-Models](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
-4. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
-5. ⭐ Starred [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille)
+1. ⭐ Starred [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+2. ❗️ Opened issue [#1473](https://github.com/huggingface/trl/issues/1473) in [huggingface/trl](https://github.com/huggingface/trl)
+3. ⭐ Starred [xfactlab/orpo](https://github.com/xfactlab/orpo)
+4. ⭐ Starred [Oxen-AI/Self-Rewarding-Language-Models](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
+5. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
