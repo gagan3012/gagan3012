@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 12th, 2024, 6:13:52 PM (GMT)
+Last Updated: Saturday, April 13th, 2024, 12:49:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
-2. ❗️ Opened issue [#1473](https://github.com/huggingface/trl/issues/1473) in [huggingface/trl](https://github.com/huggingface/trl)
-3. ⭐ Starred [xfactlab/orpo](https://github.com/xfactlab/orpo)
-4. ⭐ Starred [Oxen-AI/Self-Rewarding-Language-Models](https://github.com/Oxen-AI/Self-Rewarding-Language-Models)
-5. ⭐ Starred [mbzuai-nlp/ArabicMMLU](https://github.com/mbzuai-nlp/ArabicMMLU)
+1. 💪 Opened PR [#56](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/56) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+2. 🔱 Forked [gagan3012/lmms-eval](https://github.com/gagan3012/lmms-eval) from [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+3. ⭐ Starred [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+4. ❗️ Opened issue [#1473](https://github.com/huggingface/trl/issues/1473) in [huggingface/trl](https://github.com/huggingface/trl)
+5. ⭐ Starred [xfactlab/orpo](https://github.com/xfactlab/orpo)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
