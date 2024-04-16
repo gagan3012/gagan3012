@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 15th, 2024, 6:16:44 PM (GMT)
+Last Updated: Tuesday, April 16th, 2024, 12:59:26 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#56](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/56) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-2. 🔱 Forked [gagan3012/lmms-eval](https://github.com/gagan3012/lmms-eval) from [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-3. ⭐ Starred [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
-4. ❗️ Opened issue [#1473](https://github.com/huggingface/trl/issues/1473) in [huggingface/trl](https://github.com/huggingface/trl)
-5. ⭐ Starred [xfactlab/orpo](https://github.com/xfactlab/orpo)
+1. ⭐ Starred [Mihaiii/semantic-autocomplete](https://github.com/Mihaiii/semantic-autocomplete)
+2. 💪 Opened PR [#56](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/56) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+3. 🔱 Forked [gagan3012/lmms-eval](https://github.com/gagan3012/lmms-eval) from [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+4. ⭐ Starred [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
+5. ❗️ Opened issue [#1473](https://github.com/huggingface/trl/issues/1473) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
