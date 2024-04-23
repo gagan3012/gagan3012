@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 22nd, 2024, 6:16:50 PM (GMT)
+Last Updated: Tuesday, April 23rd, 2024, 1:01:06 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Mihaiii/semantic-autocomplete](https://github.com/Mihaiii/semantic-autocomplete)
-2. 💪 Opened PR [#56](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/56) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-3. 🔱 Forked [gagan3012/lmms-eval](https://github.com/gagan3012/lmms-eval) from [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-4. ⭐ Starred [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
-5. ❗️ Opened issue [#1473](https://github.com/huggingface/trl/issues/1473) in [huggingface/trl](https://github.com/huggingface/trl)
+1. ⭐ Starred [YihangZhu/LaTeX-in-Google-Spreadsheet](https://github.com/YihangZhu/LaTeX-in-Google-Spreadsheet)
+2. ⭐ Starred [Mihaiii/semantic-autocomplete](https://github.com/Mihaiii/semantic-autocomplete)
+3. 💪 Opened PR [#56](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/56) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+4. 🔱 Forked [gagan3012/lmms-eval](https://github.com/gagan3012/lmms-eval) from [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+5. ⭐ Starred [gagan3012/PolyDeDupe](https://github.com/gagan3012/PolyDeDupe)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
