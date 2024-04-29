@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, April 29th, 2024, 12:26:17 PM (GMT)
+Last Updated: Monday, April 29th, 2024, 6:17:28 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-2. ⭐ Starred [jzhang38/EasyContext](https://github.com/jzhang38/EasyContext)
-3. ⭐ Starred [YihangZhu/LaTeX-in-Google-Spreadsheet](https://github.com/YihangZhu/LaTeX-in-Google-Spreadsheet)
-4. ⭐ Starred [Mihaiii/semantic-autocomplete](https://github.com/Mihaiii/semantic-autocomplete)
-5. 💪 Opened PR [#56](https://github.com/EvolvingLMMs-Lab/lmms-eval/pull/56) in [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+1. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
+2. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+3. ⭐ Starred [jzhang38/EasyContext](https://github.com/jzhang38/EasyContext)
+4. ⭐ Starred [YihangZhu/LaTeX-in-Google-Spreadsheet](https://github.com/YihangZhu/LaTeX-in-Google-Spreadsheet)
+5. ⭐ Starred [Mihaiii/semantic-autocomplete](https://github.com/Mihaiii/semantic-autocomplete)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
