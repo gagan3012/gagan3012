@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 28th, 2024, 6:18:23 PM (GMT)
+Last Updated: Wednesday, May 29th, 2024, 1:06:59 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
-2. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-3. ⭐ Starred [jzhang38/EasyContext](https://github.com/jzhang38/EasyContext)
-4. ⭐ Starred [YihangZhu/LaTeX-in-Google-Spreadsheet](https://github.com/YihangZhu/LaTeX-in-Google-Spreadsheet)
-5. ⭐ Starred [Mihaiii/semantic-autocomplete](https://github.com/Mihaiii/semantic-autocomplete)
+1. ❗️ Opened issue [#29](https://github.com/AIR-Bench/AIR-Bench/issues/29) in [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
+2. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
+3. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+4. ⭐ Starred [jzhang38/EasyContext](https://github.com/jzhang38/EasyContext)
+5. ⭐ Starred [YihangZhu/LaTeX-in-Google-Spreadsheet](https://github.com/YihangZhu/LaTeX-in-Google-Spreadsheet)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
