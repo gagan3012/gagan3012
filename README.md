@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, May 31st, 2024, 6:18:26 PM (GMT)
+Last Updated: Saturday, June 1st, 2024, 1:07:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#29](https://github.com/AIR-Bench/AIR-Bench/issues/29) in [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
-2. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
-3. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-4. ⭐ Starred [jzhang38/EasyContext](https://github.com/jzhang38/EasyContext)
-5. ⭐ Starred [YihangZhu/LaTeX-in-Google-Spreadsheet](https://github.com/YihangZhu/LaTeX-in-Google-Spreadsheet)
+1. ⭐ Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)
+2. ❗️ Opened issue [#29](https://github.com/AIR-Bench/AIR-Bench/issues/29) in [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
+3. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
+4. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+5. ⭐ Starred [jzhang38/EasyContext](https://github.com/jzhang38/EasyContext)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
