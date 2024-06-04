@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, June 4th, 2024, 12:27:30 PM (GMT)
+Last Updated: Tuesday, June 4th, 2024, 6:18:56 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)
-2. ❗️ Opened issue [#29](https://github.com/AIR-Bench/AIR-Bench/issues/29) in [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
-3. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
-4. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
-5. ⭐ Starred [jzhang38/EasyContext](https://github.com/jzhang38/EasyContext)
+1. ⭐ Starred [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
+2. ⭐ Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)
+3. ❗️ Opened issue [#29](https://github.com/AIR-Bench/AIR-Bench/issues/29) in [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
+4. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
+5. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
