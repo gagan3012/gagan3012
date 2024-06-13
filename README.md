@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, June 13th, 2024, 12:27:58 PM (GMT)
+Last Updated: Thursday, June 13th, 2024, 6:19:35 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
-2. ⭐ Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)
-3. ❗️ Opened issue [#29](https://github.com/AIR-Bench/AIR-Bench/issues/29) in [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
-4. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
-5. ⭐ Starred [explodinggradients/ragas](https://github.com/explodinggradients/ragas)
+1. ⭐ Starred [Psycoy/MixEval](https://github.com/Psycoy/MixEval)
+2. ⭐ Starred [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
+3. ⭐ Starred [embedchain/embedchain](https://github.com/embedchain/embedchain)
+4. ❗️ Opened issue [#29](https://github.com/AIR-Bench/AIR-Bench/issues/29) in [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
+5. ⭐ Starred [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
