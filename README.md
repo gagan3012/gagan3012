@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, June 21st, 2024, 6:19:40 PM (GMT)
+Last Updated: Saturday, June 22nd, 2024, 1:04:34 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
 1. ⭐ Starred [gagan3012/archives](https://github.com/gagan3012/archives)
-2. 📔 Created new repository [gagan3012/archives](https://github.com/gagan3012/archives)
+2. ⭐ Starred [gagan3012/archives](https://github.com/gagan3012/archives)
 3. 📔 Created new repository [gagan3012/archives](https://github.com/gagan3012/archives)
-4. ⭐ Starred [Psycoy/MixEval](https://github.com/Psycoy/MixEval)
-5. ⭐ Starred [AIR-Bench/AIR-Bench](https://github.com/AIR-Bench/AIR-Bench)
+4. 📔 Created new repository [gagan3012/archives](https://github.com/gagan3012/archives)
+5. ⭐ Starred [Psycoy/MixEval](https://github.com/Psycoy/MixEval)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
