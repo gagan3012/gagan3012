@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 9th, 2024, 6:20:41 AM (GMT)
+Last Updated: Tuesday, July 9th, 2024, 12:29:37 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM)
-2. 📔 Created new repository [gagan3012/eagle-llm](https://github.com/gagan3012/eagle-llm)
-3. ⭐ Starred [gagan3012/archives](https://github.com/gagan3012/archives)
+1. ⭐ Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
+2. ⭐ Starred [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM)
+3. 📔 Created new repository [gagan3012/eagle-llm](https://github.com/gagan3012/eagle-llm)
 4. ⭐ Starred [gagan3012/archives](https://github.com/gagan3012/archives)
-5. 📔 Created new repository [gagan3012/archives](https://github.com/gagan3012/archives)
+5. ⭐ Starred [gagan3012/archives](https://github.com/gagan3012/archives)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
