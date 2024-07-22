@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 22nd, 2024, 12:29:45 PM (GMT)
+Last Updated: Monday, July 22nd, 2024, 6:19:45 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [princeton-nlp/SimPO](https://github.com/princeton-nlp/SimPO)
-2. ⭐ Starred [microsoft/graphrag](https://github.com/microsoft/graphrag)
-3. ⭐ Starred [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM)
-4. 📔 Created new repository [gagan3012/eagle-llm](https://github.com/gagan3012/eagle-llm)
-5. ⭐ Starred [gagan3012/archives](https://github.com/gagan3012/archives)
+1. 📔 Created new repository [gagan3012/llm-med](https://github.com/gagan3012/llm-med)
+2. ⭐ Starred [microsoft/LongRoPE](https://github.com/microsoft/LongRoPE)
+3. ⭐ Starred [project-numina/aimo-progress-prize](https://github.com/project-numina/aimo-progress-prize)
+4. ⭐ Starred [jnhwkim/ban-vqa](https://github.com/jnhwkim/ban-vqa)
+5. ⭐ Starred [fairydreaming/farel-bench](https://github.com/fairydreaming/farel-bench)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
