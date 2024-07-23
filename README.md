@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 23rd, 2024, 12:29:08 PM (GMT)
+Last Updated: Tuesday, July 23rd, 2024, 6:19:51 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/llm-med](https://github.com/gagan3012/llm-med)
-2. ⭐ Starred [microsoft/LongRoPE](https://github.com/microsoft/LongRoPE)
-3. ⭐ Starred [project-numina/aimo-progress-prize](https://github.com/project-numina/aimo-progress-prize)
-4. ⭐ Starred [jnhwkim/ban-vqa](https://github.com/jnhwkim/ban-vqa)
-5. ⭐ Starred [fairydreaming/farel-bench](https://github.com/fairydreaming/farel-bench)
+1. ⭐ Starred [yhgon/LongRoPE](https://github.com/yhgon/LongRoPE)
+2. 📔 Created new repository [gagan3012/MigraineDiary](https://github.com/gagan3012/MigraineDiary)
+3. 📔 Created new repository [gagan3012/llm-med](https://github.com/gagan3012/llm-med)
+4. ⭐ Starred [microsoft/LongRoPE](https://github.com/microsoft/LongRoPE)
+5. ⭐ Starred [project-numina/aimo-progress-prize](https://github.com/project-numina/aimo-progress-prize)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
