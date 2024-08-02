@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, August 2nd, 2024, 12:28:51 PM (GMT)
+Last Updated: Friday, August 2nd, 2024, 6:20:13 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [yhgon/LongRoPE](https://github.com/yhgon/LongRoPE)
-2. 📔 Created new repository [gagan3012/MigraineDiary](https://github.com/gagan3012/MigraineDiary)
-3. 📔 Created new repository [gagan3012/llm-med](https://github.com/gagan3012/llm-med)
-4. ⭐ Starred [microsoft/LongRoPE](https://github.com/microsoft/LongRoPE)
-5. ⭐ Starred [project-numina/aimo-progress-prize](https://github.com/project-numina/aimo-progress-prize)
+1. ⭐ Starred [argilla-io/distilabel](https://github.com/argilla-io/distilabel)
+2. ⭐ Starred [cognitivecomputations/spectrum](https://github.com/cognitivecomputations/spectrum)
+3. ⭐ Starred [yhgon/LongRoPE](https://github.com/yhgon/LongRoPE)
+4. 📔 Created new repository [gagan3012/MigraineDiary](https://github.com/gagan3012/MigraineDiary)
+5. 📔 Created new repository [gagan3012/llm-med](https://github.com/gagan3012/llm-med)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
