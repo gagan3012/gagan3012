@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, August 21st, 2024, 6:20:10 PM (GMT)
+Last Updated: Thursday, August 22nd, 2024, 1:10:58 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-2. 📔 Created new repository [gagan3012/Resume](https://github.com/gagan3012/Resume)
-3. ⭐ Starred [argilla-io/distilabel](https://github.com/argilla-io/distilabel)
-4. ⭐ Starred [cognitivecomputations/spectrum](https://github.com/cognitivecomputations/spectrum)
-5. ⭐ Starred [yhgon/LongRoPE](https://github.com/yhgon/LongRoPE)
+1. ⭐ Starred [lm-sys/arena-hard-auto](https://github.com/lm-sys/arena-hard-auto)
+2. ⭐ Starred [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
+3. 📔 Created new repository [gagan3012/Resume](https://github.com/gagan3012/Resume)
+4. ⭐ Starred [argilla-io/distilabel](https://github.com/argilla-io/distilabel)
+5. ⭐ Starred [cognitivecomputations/spectrum](https://github.com/cognitivecomputations/spectrum)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
