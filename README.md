@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 11th, 2024, 6:21:37 PM (GMT)
+Last Updated: Tuesday, November 12th, 2024, 1:15:22 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [chujiezheng/LLM-Extrapolation](https://github.com/chujiezheng/LLM-Extrapolation)
-2. ⭐ Starred [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)
-3. ⭐ Starred [lm-sys/arena-hard-auto](https://github.com/lm-sys/arena-hard-auto)
-4. ⭐ Starred [EvolvingLMMs-Lab/lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval)
-5. 📔 Created new repository [gagan3012/Resume](https://github.com/gagan3012/Resume)
+1. 🤝 Became collaborator on [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
+2. 📔 Created new repository [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
+3. ⭐ Starred [chujiezheng/LLM-Extrapolation](https://github.com/chujiezheng/LLM-Extrapolation)
+4. ⭐ Starred [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)
+5. ⭐ Starred [lm-sys/arena-hard-auto](https://github.com/lm-sys/arena-hard-auto)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
