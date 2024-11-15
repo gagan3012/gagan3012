@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 14th, 2024, 6:23:26 PM (GMT)
+Last Updated: Friday, November 15th, 2024, 1:21:41 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
 1. 🤝 Became collaborator on [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
-2. 📔 Created new repository [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
-3. ⭐ Starred [chujiezheng/LLM-Extrapolation](https://github.com/chujiezheng/LLM-Extrapolation)
-4. ⭐ Starred [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)
-5. ⭐ Starred [lm-sys/arena-hard-auto](https://github.com/lm-sys/arena-hard-auto)
+2. 🤝 Became collaborator on [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
+3. 📔 Created new repository [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
+4. ⭐ Starred [chujiezheng/LLM-Extrapolation](https://github.com/chujiezheng/LLM-Extrapolation)
+5. ⭐ Starred [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
