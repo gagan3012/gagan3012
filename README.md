@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, December 25th, 2024, 6:23:47 AM (GMT)
+Last Updated: Wednesday, December 25th, 2024, 12:32:05 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [dmis-lab/Monet](https://github.com/dmis-lab/Monet)
-2. ⭐ Starred [MikaStars39/FeatureAlignment](https://github.com/MikaStars39/FeatureAlignment)
-3. ⭐ Starred [joelburget/moe-sae](https://github.com/joelburget/moe-sae)
-4. 🤝 Became collaborator on [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
+1. ⭐ Starred [krystalan/DRT-o1](https://github.com/krystalan/DRT-o1)
+2. ⭐ Starred [dmis-lab/Monet](https://github.com/dmis-lab/Monet)
+3. ⭐ Starred [MikaStars39/FeatureAlignment](https://github.com/MikaStars39/FeatureAlignment)
+4. ⭐ Starred [joelburget/moe-sae](https://github.com/joelburget/moe-sae)
 5. 🤝 Became collaborator on [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
 <!--RECENT_ACTIVITY:end-->
 
