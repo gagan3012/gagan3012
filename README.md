@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 4th, 2025, 6:21:08 PM (GMT)
+Last Updated: Sunday, January 5th, 2025, 1:23:32 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [krystalan/DRT-o1](https://github.com/krystalan/DRT-o1)
-2. ⭐ Starred [dmis-lab/Monet](https://github.com/dmis-lab/Monet)
-3. ⭐ Starred [MikaStars39/FeatureAlignment](https://github.com/MikaStars39/FeatureAlignment)
-4. ⭐ Starred [joelburget/moe-sae](https://github.com/joelburget/moe-sae)
-5. 🤝 Became collaborator on [gagan3012/EAIS-Temporal-Bias](https://github.com/gagan3012/EAIS-Temporal-Bias)
+1. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)
+2. ⭐ Starred [krystalan/DRT-o1](https://github.com/krystalan/DRT-o1)
+3. ⭐ Starred [dmis-lab/Monet](https://github.com/dmis-lab/Monet)
+4. ⭐ Starred [MikaStars39/FeatureAlignment](https://github.com/MikaStars39/FeatureAlignment)
+5. ⭐ Starred [joelburget/moe-sae](https://github.com/joelburget/moe-sae)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
