@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 16th, 2025, 1:15:26 AM (GMT)
+Last Updated: Thursday, January 16th, 2025, 6:22:40 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [RUCAIBox/Slow_Thinking_with_LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
-2. ⭐ Starred [Quinn777/AtomThink](https://github.com/Quinn777/AtomThink)
-3. ⭐ Starred [Dereck0602/Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs)
-4. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)
-5. ⭐ Starred [krystalan/DRT-o1](https://github.com/krystalan/DRT-o1)
+1. ⭐ Starred [sunnynexus/Search-o1](https://github.com/sunnynexus/Search-o1)
+2. ⭐ Starred [RUCAIBox/Slow_Thinking_with_LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
+3. ⭐ Starred [Quinn777/AtomThink](https://github.com/Quinn777/AtomThink)
+4. ⭐ Starred [Dereck0602/Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs)
+5. ⭐ Starred [huggingface/smolagents](https://github.com/huggingface/smolagents)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
