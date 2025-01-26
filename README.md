@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 26th, 2025, 1:18:10 AM (GMT)
+Last Updated: Sunday, January 26th, 2025, 6:20:51 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-2. ⭐ Starred [sunnynexus/Search-o1](https://github.com/sunnynexus/Search-o1)
-3. ⭐ Starred [RUCAIBox/Slow_Thinking_with_LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
-4. ⭐ Starred [Quinn777/AtomThink](https://github.com/Quinn777/AtomThink)
-5. ⭐ Starred [Dereck0602/Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs)
+1. ❗️ Opened issue [#1579](https://github.com/unslothai/unsloth/issues/1579) in [unslothai/unsloth](https://github.com/unslothai/unsloth)
+2. ⭐ Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
+3. ⭐ Starred [sunnynexus/Search-o1](https://github.com/sunnynexus/Search-o1)
+4. ⭐ Starred [RUCAIBox/Slow_Thinking_with_LLMs](https://github.com/RUCAIBox/Slow_Thinking_with_LLMs)
+5. ⭐ Starred [Quinn777/AtomThink](https://github.com/Quinn777/AtomThink)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
