@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, January 27th, 2025, 1:17:06 AM (GMT)
+Last Updated: Monday, January 27th, 2025, 6:23:55 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
-2. ⭐ Starred [allenai/open-instruct](https://github.com/allenai/open-instruct)
-3. ❗️ Opened issue [#1579](https://github.com/unslothai/unsloth/issues/1579) in [unslothai/unsloth](https://github.com/unslothai/unsloth)
-4. ⭐ Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
-5. ⭐ Starred [sunnynexus/Search-o1](https://github.com/sunnynexus/Search-o1)
+1. ⭐ Starred [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
+2. ⭐ Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
+3. ⭐ Starred [allenai/open-instruct](https://github.com/allenai/open-instruct)
+4. ❗️ Opened issue [#1579](https://github.com/unslothai/unsloth/issues/1579) in [unslothai/unsloth](https://github.com/unslothai/unsloth)
+5. ⭐ Starred [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
