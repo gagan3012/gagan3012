@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, January 31st, 2025, 6:24:00 AM (GMT)
+Last Updated: Friday, January 31st, 2025, 12:32:00 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [jackfsuia/nanoRLHF](https://github.com/jackfsuia/nanoRLHF)
-2. ⭐ Starred [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
-3. ⭐ Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
-4. ⭐ Starred [allenai/open-instruct](https://github.com/allenai/open-instruct)
-5. ❗️ Opened issue [#1579](https://github.com/unslothai/unsloth/issues/1579) in [unslothai/unsloth](https://github.com/unslothai/unsloth)
+1. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
+2. ⭐ Starred [jackfsuia/nanoRLHF](https://github.com/jackfsuia/nanoRLHF)
+3. ⭐ Starred [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
+4. ⭐ Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
+5. ⭐ Starred [allenai/open-instruct](https://github.com/allenai/open-instruct)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
