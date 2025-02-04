@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 3rd, 2025, 6:22:31 PM (GMT)
+Last Updated: Tuesday, February 4th, 2025, 1:16:05 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
-2. ⭐ Starred [jackfsuia/nanoRLHF](https://github.com/jackfsuia/nanoRLHF)
-3. ⭐ Starred [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
-4. ⭐ Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
-5. ⭐ Starred [allenai/open-instruct](https://github.com/allenai/open-instruct)
+1. ⭐ Starred [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
+2. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
+3. ⭐ Starred [jackfsuia/nanoRLHF](https://github.com/jackfsuia/nanoRLHF)
+4. ⭐ Starred [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
+5. ⭐ Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
