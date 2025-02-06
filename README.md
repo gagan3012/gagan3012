@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, February 6th, 2025, 1:17:18 AM (GMT)
+Last Updated: Thursday, February 6th, 2025, 6:24:18 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
-2. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
-3. ⭐ Starred [jackfsuia/nanoRLHF](https://github.com/jackfsuia/nanoRLHF)
-4. ⭐ Starred [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
-5. ⭐ Starred [huggingface/open-r1](https://github.com/huggingface/open-r1)
+1. ⭐ Starred [SebastinSanty/minimal-research-theme](https://github.com/SebastinSanty/minimal-research-theme)
+2. ⭐ Starred [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
+3. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
+4. ⭐ Starred [jackfsuia/nanoRLHF](https://github.com/jackfsuia/nanoRLHF)
+5. ⭐ Starred [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
