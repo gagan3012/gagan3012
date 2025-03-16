@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 16th, 2025, 1:27:01 AM (GMT)
+Last Updated: Sunday, March 16th, 2025, 6:22:36 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#2](https://github.com/The-FinAI/Fino1/issues/2) in [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
-2. 📔 Created new repository [gagan3012/Power-rangers](https://github.com/gagan3012/Power-rangers)
-3. ⭐ Starred [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
-4. ⭐ Starred [Ucas-HaoranWei/GOT-OCR2.0](https://github.com/Ucas-HaoranWei/GOT-OCR2.0)
+1. ❗️ Opened issue [#27](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal/issues/27) in [EvolvingLMMs-Lab/open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
+2. ❗️ Opened issue [#2](https://github.com/The-FinAI/Fino1/issues/2) in [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
+3. 📔 Created new repository [gagan3012/Power-rangers](https://github.com/gagan3012/Power-rangers)
+4. ⭐ Starred [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
 5. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--RECENT_ACTIVITY:end-->
 
