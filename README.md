@@ -27,12 +27,12 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 12th, 2025, 12:32:37 PM (GMT)
+Last Updated: Saturday, April 12th, 2025, 6:22:38 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#27](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal/issues/27) in [EvolvingLMMs-Lab/open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
-2. ❗️ Opened issue [#2](https://github.com/The-FinAI/Fino1/issues/2) in [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
+1. ⭐ Starred [attentionmech/smolbox](https://github.com/attentionmech/smolbox)
+2. ❗️ Opened issue [#27](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal/issues/27) in [EvolvingLMMs-Lab/open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
 3. 📔 Created new repository [gagan3012/Power-rangers](https://github.com/gagan3012/Power-rangers)
 4. ⭐ Starred [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
 5. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
