@@ -27,12 +27,12 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 16th, 2025, 6:26:47 AM (GMT)
+Last Updated: Wednesday, April 16th, 2025, 12:37:14 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [attentionmech/smolbox](https://github.com/attentionmech/smolbox)
-2. ❗️ Opened issue [#27](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal/issues/27) in [EvolvingLMMs-Lab/open-r1-multimodal](https://github.com/EvolvingLMMs-Lab/open-r1-multimodal)
+1. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
+2. ⭐ Starred [attentionmech/smolbox](https://github.com/attentionmech/smolbox)
 3. 📔 Created new repository [gagan3012/Power-rangers](https://github.com/gagan3012/Power-rangers)
 4. ⭐ Starred [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
 5. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
