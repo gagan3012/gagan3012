@@ -27,13 +27,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 17th, 2025, 12:36:45 PM (GMT)
+Last Updated: Thursday, April 17th, 2025, 6:25:13 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
-2. ⭐ Starred [attentionmech/smolbox](https://github.com/attentionmech/smolbox)
-3. 📔 Created new repository [gagan3012/Power-rangers](https://github.com/gagan3012/Power-rangers)
+1. ⭐ Starred [menloresearch/ReZero](https://github.com/menloresearch/ReZero)
+2. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
+3. ⭐ Starred [attentionmech/smolbox](https://github.com/attentionmech/smolbox)
 4. ⭐ Starred [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
 5. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--RECENT_ACTIVITY:end-->
