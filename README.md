@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 30th, 2025, 6:27:12 AM (GMT)
+Last Updated: Wednesday, April 30th, 2025, 12:36:58 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [menloresearch/ReZero](https://github.com/menloresearch/ReZero)
-2. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
-3. ⭐ Starred [attentionmech/smolbox](https://github.com/attentionmech/smolbox)
-4. ⭐ Starred [The-FinAI/Fino1](https://github.com/The-FinAI/Fino1)
+1. ⭐ Starred [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
+2. ⭐ Starred [menloresearch/ReZero](https://github.com/menloresearch/ReZero)
+3. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
+4. ⭐ Starred [attentionmech/smolbox](https://github.com/attentionmech/smolbox)
 5. ❗️ Opened issue [#2698](https://github.com/huggingface/trl/issues/2698) in [huggingface/trl](https://github.com/huggingface/trl)
 <!--RECENT_ACTIVITY:end-->
 
