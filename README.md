@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 10th, 2025, 6:24:23 AM (GMT)
+Last Updated: Saturday, May 10th, 2025, 12:34:01 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [PAIR-code/interpretability](https://github.com/PAIR-code/interpretability)
-2. ⭐ Starred [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
-3. ⭐ Starred [menloresearch/ReZero](https://github.com/menloresearch/ReZero)
-4. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
-5. ⭐ Starred [attentionmech/smolbox](https://github.com/attentionmech/smolbox)
+1. 🔱 Forked [gagan3012/llm-thought-tracing](https://github.com/gagan3012/llm-thought-tracing) from [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
+2. ⭐ Starred [PAIR-code/interpretability](https://github.com/PAIR-code/interpretability)
+3. ⭐ Starred [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
+4. ⭐ Starred [menloresearch/ReZero](https://github.com/menloresearch/ReZero)
+5. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
