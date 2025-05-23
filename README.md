@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 22nd, 2025, 6:27:03 PM (GMT)
+Last Updated: Friday, May 23rd, 2025, 1:37:29 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🔱 Forked [gagan3012/llm-thought-tracing](https://github.com/gagan3012/llm-thought-tracing) from [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
-2. ⭐ Starred [PAIR-code/interpretability](https://github.com/PAIR-code/interpretability)
-3. ⭐ Starred [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
-4. ⭐ Starred [menloresearch/ReZero](https://github.com/menloresearch/ReZero)
+1. ⭐ Starred [mlepori1/Racing_Thoughts](https://github.com/mlepori1/Racing_Thoughts)
+2. 🔱 Forked [gagan3012/llm-thought-tracing](https://github.com/gagan3012/llm-thought-tracing) from [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
+3. ⭐ Starred [PAIR-code/interpretability](https://github.com/PAIR-code/interpretability)
+4. ⭐ Starred [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
 5. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
 <!--RECENT_ACTIVITY:end-->
 
