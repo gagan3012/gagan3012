@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, May 24th, 2025, 12:34:42 PM (GMT)
+Last Updated: Saturday, May 24th, 2025, 6:24:03 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [mlepori1/Racing_Thoughts](https://github.com/mlepori1/Racing_Thoughts)
-2. 🔱 Forked [gagan3012/llm-thought-tracing](https://github.com/gagan3012/llm-thought-tracing) from [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
-3. ⭐ Starred [PAIR-code/interpretability](https://github.com/PAIR-code/interpretability)
-4. ⭐ Starred [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
-5. ⭐ Starred [TIGER-AI-Lab/General-Reasoner](https://github.com/TIGER-AI-Lab/General-Reasoner)
+1. ❗️ Opened issue [#5304](https://github.com/acl-org/acl-anthology/issues/5304) in [acl-org/acl-anthology](https://github.com/acl-org/acl-anthology)
+2. ⭐ Starred [mlepori1/Racing_Thoughts](https://github.com/mlepori1/Racing_Thoughts)
+3. 🔱 Forked [gagan3012/llm-thought-tracing](https://github.com/gagan3012/llm-thought-tracing) from [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
+4. ⭐ Starred [PAIR-code/interpretability](https://github.com/PAIR-code/interpretability)
+5. ⭐ Starred [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
