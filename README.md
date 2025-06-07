@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, June 7th, 2025, 12:35:32 PM (GMT)
+Last Updated: Saturday, June 7th, 2025, 6:24:41 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [safety-research/circuit-tracer](https://github.com/safety-research/circuit-tracer)
-2. 📔 Created new repository [gagan3012/date-fragments](https://github.com/gagan3012/date-fragments)
-3. ❗️ Opened issue [#5304](https://github.com/acl-org/acl-anthology/issues/5304) in [acl-org/acl-anthology](https://github.com/acl-org/acl-anthology)
-4. ⭐ Starred [mlepori1/Racing_Thoughts](https://github.com/mlepori1/Racing_Thoughts)
-5. 🔱 Forked [gagan3012/llm-thought-tracing](https://github.com/gagan3012/llm-thought-tracing) from [VilohitT/llm-thought-tracing](https://github.com/VilohitT/llm-thought-tracing)
+1. ⭐ Starred [cvs-health/uqlm](https://github.com/cvs-health/uqlm)
+2. ⭐ Starred [safety-research/circuit-tracer](https://github.com/safety-research/circuit-tracer)
+3. 📔 Created new repository [gagan3012/date-fragments](https://github.com/gagan3012/date-fragments)
+4. ❗️ Opened issue [#5304](https://github.com/acl-org/acl-anthology/issues/5304) in [acl-org/acl-anthology](https://github.com/acl-org/acl-anthology)
+5. ⭐ Starred [mlepori1/Racing_Thoughts](https://github.com/mlepori1/Racing_Thoughts)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
