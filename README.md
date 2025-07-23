@@ -27,13 +27,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, July 23rd, 2025, 6:32:05 AM (GMT)
+Last Updated: Wednesday, July 23rd, 2025, 12:43:38 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [jafioti/luminal](https://github.com/jafioti/luminal)
-2. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)
-3. 🔱 Forked [gagan3012/gemini-fullstack-langgraph-quickstart](https://github.com/gagan3012/gemini-fullstack-langgraph-quickstart) from [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart)
+1. ⭐ Starred [willccbb/verifiers](https://github.com/willccbb/verifiers)
+2. ⭐ Starred [jafioti/luminal](https://github.com/jafioti/luminal)
+3. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)
 4. ⭐ Starred [cvs-health/uqlm](https://github.com/cvs-health/uqlm)
 5. 📔 Created new repository [gagan3012/date-fragments](https://github.com/gagan3012/date-fragments)
 <!--RECENT_ACTIVITY:end-->
