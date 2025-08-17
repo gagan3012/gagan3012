@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, August 16th, 2025, 6:25:39 PM (GMT)
+Last Updated: Sunday, August 17th, 2025, 1:47:39 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [safety-research/persona_vectors](https://github.com/safety-research/persona_vectors)
-2. ⭐ Starred [willccbb/verifiers](https://github.com/willccbb/verifiers)
-3. ⭐ Starred [jafioti/luminal](https://github.com/jafioti/luminal)
-4. ⭐ Starred [pickle-com/glass](https://github.com/pickle-com/glass)
+1. ⭐ Starred [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl)
+2. ⭐ Starred [safety-research/persona_vectors](https://github.com/safety-research/persona_vectors)
+3. ⭐ Starred [willccbb/verifiers](https://github.com/willccbb/verifiers)
+4. ⭐ Starred [jafioti/luminal](https://github.com/jafioti/luminal)
 5. 📔 Created new repository [gagan3012/date-fragments](https://github.com/gagan3012/date-fragments)
 <!--RECENT_ACTIVITY:end-->
 
