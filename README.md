@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 2nd, 2025, 12:39:12 PM (GMT)
+Last Updated: Tuesday, September 2nd, 2025, 6:24:07 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [gagan3012/IRAF](https://github.com/gagan3012/IRAF)
-2. ⭐ Starred [Vyvo-Labs/VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS)
-3. ⭐ Starred [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl)
-4. ⭐ Starred [safety-research/persona_vectors](https://github.com/safety-research/persona_vectors)
+1. ⭐ Starred [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+2. 📔 Created new repository [gagan3012/IRAF](https://github.com/gagan3012/IRAF)
+3. ⭐ Starred [Vyvo-Labs/VyvoTTS](https://github.com/Vyvo-Labs/VyvoTTS)
+4. ⭐ Starred [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl)
 5. ⭐ Starred [jafioti/luminal](https://github.com/jafioti/luminal)
 <!--RECENT_ACTIVITY:end-->
 
