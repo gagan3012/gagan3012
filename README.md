@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, September 26th, 2025, 1:22:27 AM (GMT)
+Last Updated: Friday, September 26th, 2025, 6:27:41 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
-2. ⭐ Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-3. 📔 Created new repository [gagan3012/batch_invariant_kernel](https://github.com/gagan3012/batch_invariant_kernel)
-4. ⭐ Starred [thinking-machines-lab/batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops)
-5. ❗️ Opened issue [#305](https://github.com/willccbb/verifiers/issues/305) in [willccbb/verifiers](https://github.com/willccbb/verifiers)
+1. ⭐ Starred [kimsama/lightrag-markdown-agent](https://github.com/kimsama/lightrag-markdown-agent)
+2. ⭐ Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+3. ⭐ Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
+4. 📔 Created new repository [gagan3012/batch_invariant_kernel](https://github.com/gagan3012/batch_invariant_kernel)
+5. ⭐ Starred [thinking-machines-lab/batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
