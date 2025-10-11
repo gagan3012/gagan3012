@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 11th, 2025, 12:33:33 PM (GMT)
+Last Updated: Saturday, October 11th, 2025, 6:21:59 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [kimsama/lightrag-markdown-agent](https://github.com/kimsama/lightrag-markdown-agent)
-2. ⭐ Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
-3. ⭐ Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
-4. 📔 Created new repository [gagan3012/batch_invariant_kernel](https://github.com/gagan3012/batch_invariant_kernel)
+1. ⭐ Starred [ndif-team/workbench](https://github.com/ndif-team/workbench)
+2. ⭐ Starred [kimsama/lightrag-markdown-agent](https://github.com/kimsama/lightrag-markdown-agent)
+3. ⭐ Starred [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm)
+4. ⭐ Starred [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM)
 5. ⭐ Starred [thinking-machines-lab/batch_invariant_ops](https://github.com/thinking-machines-lab/batch_invariant_ops)
 <!--RECENT_ACTIVITY:end-->
 
