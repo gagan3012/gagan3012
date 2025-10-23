@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, October 23rd, 2025, 12:40:53 PM (GMT)
+Last Updated: Thursday, October 23rd, 2025, 6:27:52 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [s-nlp/PsiloQA](https://github.com/s-nlp/PsiloQA)
-2. ⭐ Starred [Aurora-cx/EmotionCircuits-LLM](https://github.com/Aurora-cx/EmotionCircuits-LLM)
-3. ⭐ Starred [Niko-Group/paper_writing_info](https://github.com/Niko-Group/paper_writing_info)
-4. ⭐ Starred [ndif-team/workbench](https://github.com/ndif-team/workbench)
-5. ⭐ Starred [kimsama/lightrag-markdown-agent](https://github.com/kimsama/lightrag-markdown-agent)
+1. ⭐ Starred [akshat57/how-do-llms-use-their-depth](https://github.com/akshat57/how-do-llms-use-their-depth)
+2. ⭐ Starred [s-nlp/PsiloQA](https://github.com/s-nlp/PsiloQA)
+3. ⭐ Starred [Aurora-cx/EmotionCircuits-LLM](https://github.com/Aurora-cx/EmotionCircuits-LLM)
+4. ⭐ Starred [Niko-Group/paper_writing_info](https://github.com/Niko-Group/paper_writing_info)
+5. ⭐ Starred [ndif-team/workbench](https://github.com/ndif-team/workbench)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
