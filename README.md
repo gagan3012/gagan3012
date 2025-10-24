@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, October 24th, 2025, 12:40:36 PM (GMT)
+Last Updated: Friday, October 24th, 2025, 6:26:15 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [akshat57/how-do-llms-use-their-depth](https://github.com/akshat57/how-do-llms-use-their-depth)
-2. ⭐ Starred [s-nlp/PsiloQA](https://github.com/s-nlp/PsiloQA)
-3. ⭐ Starred [Aurora-cx/EmotionCircuits-LLM](https://github.com/Aurora-cx/EmotionCircuits-LLM)
-4. ⭐ Starred [Niko-Group/paper_writing_info](https://github.com/Niko-Group/paper_writing_info)
-5. ⭐ Starred [ndif-team/workbench](https://github.com/ndif-team/workbench)
+1. ❗️ Opened issue [#2242](https://github.com/sunnah-com/api/issues/2242) in [sunnah-com/api](https://github.com/sunnah-com/api)
+2. ⭐ Starred [akshat57/how-do-llms-use-their-depth](https://github.com/akshat57/how-do-llms-use-their-depth)
+3. ⭐ Starred [s-nlp/PsiloQA](https://github.com/s-nlp/PsiloQA)
+4. ⭐ Starred [Aurora-cx/EmotionCircuits-LLM](https://github.com/Aurora-cx/EmotionCircuits-LLM)
+5. ⭐ Starred [Niko-Group/paper_writing_info](https://github.com/Niko-Group/paper_writing_info)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
