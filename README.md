@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, October 25th, 2025, 12:35:04 PM (GMT)
+Last Updated: Saturday, October 25th, 2025, 6:24:32 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#2242](https://github.com/sunnah-com/api/issues/2242) in [sunnah-com/api](https://github.com/sunnah-com/api)
-2. ⭐ Starred [akshat57/how-do-llms-use-their-depth](https://github.com/akshat57/how-do-llms-use-their-depth)
-3. ⭐ Starred [s-nlp/PsiloQA](https://github.com/s-nlp/PsiloQA)
-4. ⭐ Starred [Aurora-cx/EmotionCircuits-LLM](https://github.com/Aurora-cx/EmotionCircuits-LLM)
-5. ⭐ Starred [Niko-Group/paper_writing_info](https://github.com/Niko-Group/paper_writing_info)
+1. 🔱 Forked [gagan3012/splade-index](https://github.com/gagan3012/splade-index) from [gagan3012/splade-index](https://github.com/gagan3012/splade-index)
+2. ⭐ Starred [rasyosef/splade-index](https://github.com/rasyosef/splade-index)
+3. ❗️ Opened issue [#2242](https://github.com/sunnah-com/api/issues/2242) in [sunnah-com/api](https://github.com/sunnah-com/api)
+4. ⭐ Starred [akshat57/how-do-llms-use-their-depth](https://github.com/akshat57/how-do-llms-use-their-depth)
+5. ⭐ Starred [s-nlp/PsiloQA](https://github.com/s-nlp/PsiloQA)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
