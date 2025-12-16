@@ -27,13 +27,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, December 16th, 2025, 6:33:57 AM (GMT)
+Last Updated: Tuesday, December 16th, 2025, 12:45:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
-2. ⭐ Starred [MasterZhou1/Reasoning-Flow](https://github.com/MasterZhou1/Reasoning-Flow)
-3. 🔱 Forked [gagan3012/EmotionCircuits-LLM](https://github.com/gagan3012/EmotionCircuits-LLM) from [gagan3012/EmotionCircuits-LLM](https://github.com/gagan3012/EmotionCircuits-LLM)
+1. ⭐ Starred [nickjiang2378/interp_embed](https://github.com/nickjiang2378/interp_embed)
+2. ⭐ Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+3. ⭐ Starred [MasterZhou1/Reasoning-Flow](https://github.com/MasterZhou1/Reasoning-Flow)
 4. 💪 Opened PR [#4](undefined) in [rasyosef/splade-index](https://github.com/rasyosef/splade-index)
 5. ⭐ Starred [KRLabsOrg/LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect)
 <!--RECENT_ACTIVITY:end-->
