@@ -27,12 +27,12 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, December 21st, 2025, 6:27:47 PM (GMT)
+Last Updated: Monday, December 22nd, 2025, 1:48:17 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
 1. ⭐ Starred [codelion/pts](https://github.com/codelion/pts)
-2. ⭐ Starred [nickjiang2378/interp_embed](https://github.com/nickjiang2378/interp_embed)
+2. ⭐ Starred [nickjiang2378/interp-embed](https://github.com/nickjiang2378/interp-embed)
 3. ⭐ Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
 4. ⭐ Starred [MasterZhou1/Reasoning-Flow](https://github.com/MasterZhou1/Reasoning-Flow)
 5. ⭐ Starred [KRLabsOrg/LettuceDetect](https://github.com/KRLabsOrg/LettuceDetect)
