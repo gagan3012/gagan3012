@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, January 18th, 2026, 6:31:39 AM (GMT)
+Last Updated: Sunday, January 18th, 2026, 12:40:02 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [RiddleHe/llm-interp](https://github.com/RiddleHe/llm-interp)
-2. 🔴 Requested 2 change(s) for [#5](https://github.com/gagan3012/gagan3012.github.io/pull/5#pullrequestreview-3604681027) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
-3. ⭐ Starred [codelion/pts](https://github.com/codelion/pts)
-4. ⭐ Starred [nickjiang2378/interp-embed](https://github.com/nickjiang2378/interp-embed)
+1. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
+2. ⭐ Starred [RiddleHe/llm-interp](https://github.com/RiddleHe/llm-interp)
+3. 🔴 Requested 2 change(s) for [#5](https://github.com/gagan3012/gagan3012.github.io/pull/5#pullrequestreview-3604681027) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
+4. ⭐ Starred [codelion/pts](https://github.com/codelion/pts)
 5. ⭐ Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
 <!--RECENT_ACTIVITY:end-->
 
