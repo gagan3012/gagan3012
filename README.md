@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, January 20th, 2026, 12:51:16 PM (GMT)
+Last Updated: Tuesday, January 20th, 2026, 6:36:41 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
-2. ⭐ Starred [RiddleHe/llm-interp](https://github.com/RiddleHe/llm-interp)
-3. 🔴 Requested 2 change(s) for [#5](https://github.com/gagan3012/gagan3012.github.io/pull/5#pullrequestreview-3604681027) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
-4. ⭐ Starred [codelion/pts](https://github.com/codelion/pts)
-5. ⭐ Starred [p-e-w/heretic](https://github.com/p-e-w/heretic)
+1. ⭐ Starred [FOR-sight-ai/interpreto](https://github.com/FOR-sight-ai/interpreto)
+2. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
+3. ⭐ Starred [RiddleHe/llm-interp](https://github.com/RiddleHe/llm-interp)
+4. 🔴 Requested 2 change(s) for [#5](https://github.com/gagan3012/gagan3012.github.io/pull/5#pullrequestreview-3604681027) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
+5. ⭐ Starred [codelion/pts](https://github.com/codelion/pts)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
