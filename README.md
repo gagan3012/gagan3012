@@ -27,13 +27,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 31st, 2026, 12:48:36 PM (GMT)
+Last Updated: Saturday, January 31st, 2026, 6:32:58 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [FOR-sight-ai/interpreto](https://github.com/FOR-sight-ai/interpreto)
-2. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
-3. ⭐ Starred [RiddleHe/llm-interp](https://github.com/RiddleHe/llm-interp)
+1. ⭐ Starred [idoatad/TensorLens](https://github.com/idoatad/TensorLens)
+2. ⭐ Starred [FOR-sight-ai/interpreto](https://github.com/FOR-sight-ai/interpreto)
+3. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
 4. 🔴 Requested 2 change(s) for [#5](https://github.com/gagan3012/gagan3012.github.io/pull/5#pullrequestreview-3604681027) in [gagan3012/gagan3012.github.io](https://github.com/gagan3012/gagan3012.github.io)
 5. ⭐ Starred [codelion/pts](https://github.com/codelion/pts)
 <!--RECENT_ACTIVITY:end-->
