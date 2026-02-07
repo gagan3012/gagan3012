@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, February 7th, 2026, 6:41:32 AM (GMT)
+Last Updated: Saturday, February 7th, 2026, 12:49:52 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation)
-2. ⭐ Starred [idoatad/TensorLens](https://github.com/idoatad/TensorLens)
-3. ⭐ Starred [FOR-sight-ai/interpreto](https://github.com/FOR-sight-ai/interpreto)
-4. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
-5. ⭐ Starred [codelion/pts](https://github.com/codelion/pts)
+1. ⭐ Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
+2. ⭐ Starred [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation)
+3. ⭐ Starred [idoatad/TensorLens](https://github.com/idoatad/TensorLens)
+4. ⭐ Starred [FOR-sight-ai/interpreto](https://github.com/FOR-sight-ai/interpreto)
+5. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
