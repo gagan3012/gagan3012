@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, February 23rd, 2026, 7:02:36 PM (GMT)
+Last Updated: Tuesday, February 24th, 2026, 2:08:17 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
-2. ⭐ Starred [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation)
-3. ⭐ Starred [idoatad/TensorLens](https://github.com/idoatad/TensorLens)
-4. ⭐ Starred [FOR-sight-ai/interpreto](https://github.com/FOR-sight-ai/interpreto)
+1. ⭐ Starred [lightonai/pylate](https://github.com/lightonai/pylate)
+2. ⭐ Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
+3. ⭐ Starred [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation)
+4. ⭐ Starred [idoatad/TensorLens](https://github.com/idoatad/TensorLens)
 5. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
 <!--RECENT_ACTIVITY:end-->
 
