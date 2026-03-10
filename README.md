@@ -27,12 +27,12 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, March 10th, 2026, 1:01:12 PM (GMT)
+Last Updated: Tuesday, March 10th, 2026, 6:49:12 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [lightonai/pylate](https://github.com/lightonai/pylate)
-2. ⭐ Starred [gepa-ai/gepa](https://github.com/gepa-ai/gepa)
+1. ⭐ Starred [McGill-NLP/llm2vec-gen](https://github.com/McGill-NLP/llm2vec-gen)
+2. ⭐ Starred [lightonai/pylate](https://github.com/lightonai/pylate)
 3. ⭐ Starred [idanshen/Self-Distillation](https://github.com/idanshen/Self-Distillation)
 4. ⭐ Starred [idoatad/TensorLens](https://github.com/idoatad/TensorLens)
 5. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
