@@ -27,14 +27,14 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, March 18th, 2026, 1:12:57 PM (GMT)
+Last Updated: Wednesday, March 18th, 2026, 6:59:17 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ❗️ Opened issue [#7756](https://github.com/acl-org/acl-anthology/issues/7756) in [acl-org/acl-anthology](https://github.com/acl-org/acl-anthology)
-2. ⭐ Starred [McGill-NLP/llm2vec-gen](https://github.com/McGill-NLP/llm2vec-gen)
-3. ⭐ Starred [lightonai/pylate](https://github.com/lightonai/pylate)
-4. ⭐ Starred [idoatad/TensorLens](https://github.com/idoatad/TensorLens)
+1. ⭐ Starred [gauravfs-14/awesome-mechanistic-interpretability](https://github.com/gauravfs-14/awesome-mechanistic-interpretability)
+2. ❗️ Opened issue [#7756](https://github.com/acl-org/acl-anthology/issues/7756) in [acl-org/acl-anthology](https://github.com/acl-org/acl-anthology)
+3. ⭐ Starred [McGill-NLP/llm2vec-gen](https://github.com/McGill-NLP/llm2vec-gen)
+4. ⭐ Starred [lightonai/pylate](https://github.com/lightonai/pylate)
 5. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
 <!--RECENT_ACTIVITY:end-->
 
