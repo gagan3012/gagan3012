@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, March 21st, 2026, 12:50:20 PM (GMT)
+Last Updated: Saturday, March 21st, 2026, 6:36:53 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [gauravfs-14/awesome-mechanistic-interpretability](https://github.com/gauravfs-14/awesome-mechanistic-interpretability)
-2. ❗️ Opened issue [#7756](https://github.com/acl-org/acl-anthology/issues/7756) in [acl-org/acl-anthology](https://github.com/acl-org/acl-anthology)
-3. ⭐ Starred [McGill-NLP/llm2vec-gen](https://github.com/McGill-NLP/llm2vec-gen)
-4. ⭐ Starred [lightonai/pylate](https://github.com/lightonai/pylate)
-5. ⭐ Starred [TransluceAI/circuits](https://github.com/TransluceAI/circuits)
+1. ⭐ Starred [ndif-team/nnsight](https://github.com/ndif-team/nnsight)
+2. ⭐ Starred [Ronen-Rusinov/Manifolds_in_LLMs](https://github.com/Ronen-Rusinov/Manifolds_in_LLMs)
+3. ⭐ Starred [danielpcox/irtk](https://github.com/danielpcox/irtk)
+4. ⭐ Starred [patrickhyw/logitscope](https://github.com/patrickhyw/logitscope)
+5. ⭐ Starred [gauravfs-14/awesome-mechanistic-interpretability](https://github.com/gauravfs-14/awesome-mechanistic-interpretability)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
