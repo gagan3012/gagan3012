@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, March 22nd, 2026, 12:52:44 PM (GMT)
+Last Updated: Sunday, March 22nd, 2026, 6:37:41 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [ndif-team/nnsight](https://github.com/ndif-team/nnsight)
-2. ⭐ Starred [Ronen-Rusinov/Manifolds_in_LLMs](https://github.com/Ronen-Rusinov/Manifolds_in_LLMs)
-3. ⭐ Starred [danielpcox/irtk](https://github.com/danielpcox/irtk)
-4. ⭐ Starred [patrickhyw/logitscope](https://github.com/patrickhyw/logitscope)
-5. ⭐ Starred [gauravfs-14/awesome-mechanistic-interpretability](https://github.com/gauravfs-14/awesome-mechanistic-interpretability)
+1. 🔱 Forked [gagan3012/awesome-hallucination-detection](https://github.com/gagan3012/awesome-hallucination-detection) from [EdinburghNLP/awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
+2. ⭐ Starred [ndif-team/nnsight](https://github.com/ndif-team/nnsight)
+3. ⭐ Starred [Ronen-Rusinov/Manifolds_in_LLMs](https://github.com/Ronen-Rusinov/Manifolds_in_LLMs)
+4. ⭐ Starred [danielpcox/irtk](https://github.com/danielpcox/irtk)
+5. ⭐ Starred [patrickhyw/logitscope](https://github.com/patrickhyw/logitscope)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
