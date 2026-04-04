@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, April 4th, 2026, 12:56:15 PM (GMT)
+Last Updated: Saturday, April 4th, 2026, 6:42:22 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. 🤝 Became collaborator on [firojalam/omniscore_package](https://github.com/firojalam/omniscore_package)
-2. ⭐ Starred [UKGovernmentBEIS/reward-hacking-misalignment](https://github.com/UKGovernmentBEIS/reward-hacking-misalignment)
-3. 🔱 Forked [gagan3012/awesome-hallucination-detection](https://github.com/gagan3012/awesome-hallucination-detection) from [EdinburghNLP/awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
-4. ⭐ Starred [ndif-team/nnsight](https://github.com/ndif-team/nnsight)
-5. ⭐ Starred [Ronen-Rusinov/Manifolds_in_LLMs](https://github.com/Ronen-Rusinov/Manifolds_in_LLMs)
+1. ⭐ Starred [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+2. 🤝 Became collaborator on [firojalam/omniscore_package](https://github.com/firojalam/omniscore_package)
+3. ⭐ Starred [UKGovernmentBEIS/reward-hacking-misalignment](https://github.com/UKGovernmentBEIS/reward-hacking-misalignment)
+4. 🔱 Forked [gagan3012/awesome-hallucination-detection](https://github.com/gagan3012/awesome-hallucination-detection) from [EdinburghNLP/awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
+5. ⭐ Starred [ndif-team/nnsight](https://github.com/ndif-team/nnsight)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
