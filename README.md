@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Friday, April 3rd, 2026, 6:48:46 PM (GMT)
+Last Updated: Saturday, April 4th, 2026, 2:10:30 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [UKGovernmentBEIS/reward-hacking-misalignment](https://github.com/UKGovernmentBEIS/reward-hacking-misalignment)
-2. 🔱 Forked [gagan3012/awesome-hallucination-detection](https://github.com/gagan3012/awesome-hallucination-detection) from [EdinburghNLP/awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
-3. ⭐ Starred [ndif-team/nnsight](https://github.com/ndif-team/nnsight)
-4. ⭐ Starred [Ronen-Rusinov/Manifolds_in_LLMs](https://github.com/Ronen-Rusinov/Manifolds_in_LLMs)
-5. ⭐ Starred [danielpcox/irtk](https://github.com/danielpcox/irtk)
+1. 🤝 Became collaborator on [firojalam/omniscore_package](https://github.com/firojalam/omniscore_package)
+2. ⭐ Starred [UKGovernmentBEIS/reward-hacking-misalignment](https://github.com/UKGovernmentBEIS/reward-hacking-misalignment)
+3. 🔱 Forked [gagan3012/awesome-hallucination-detection](https://github.com/gagan3012/awesome-hallucination-detection) from [EdinburghNLP/awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
+4. ⭐ Starred [ndif-team/nnsight](https://github.com/ndif-team/nnsight)
+5. ⭐ Starred [Ronen-Rusinov/Manifolds_in_LLMs](https://github.com/Ronen-Rusinov/Manifolds_in_LLMs)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
