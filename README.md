@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, April 23rd, 2026, 7:53:30 AM (GMT)
+Last Updated: Thursday, April 23rd, 2026, 1:42:56 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [natolambert/colloquium](https://github.com/natolambert/colloquium)
-2. ⭐ Starred [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
-3. 🤝 Became collaborator on [firojalam/omniscore_package](https://github.com/firojalam/omniscore_package)
-4. ⭐ Starred [UKGovernmentBEIS/reward-hacking-misalignment](https://github.com/UKGovernmentBEIS/reward-hacking-misalignment)
-5. 🔱 Forked [gagan3012/awesome-hallucination-detection](https://github.com/gagan3012/awesome-hallucination-detection) from [EdinburghNLP/awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection)
+1. ⭐ Starred [science-of-finetuning/diffing-toolkit](https://github.com/science-of-finetuning/diffing-toolkit)
+2. ⭐ Starred [natolambert/colloquium](https://github.com/natolambert/colloquium)
+3. ⭐ Starred [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
+4. 🤝 Became collaborator on [firojalam/omniscore_package](https://github.com/firojalam/omniscore_package)
+5. ⭐ Starred [UKGovernmentBEIS/reward-hacking-misalignment](https://github.com/UKGovernmentBEIS/reward-hacking-misalignment)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
