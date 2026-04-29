@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, April 29th, 2026, 1:57:00 PM (GMT)
+Last Updated: Wednesday, April 29th, 2026, 7:25:29 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens)
-2. ⭐ Starred [science-of-finetuning/diffing-toolkit](https://github.com/science-of-finetuning/diffing-toolkit)
-3. ⭐ Starred [natolambert/colloquium](https://github.com/natolambert/colloquium)
-4. ⭐ Starred [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
-5. 🤝 Became collaborator on [firojalam/omniscore_package](https://github.com/firojalam/omniscore_package)
+1. ⭐ Starred [safety-research/introspection-adapters](https://github.com/safety-research/introspection-adapters)
+2. ⭐ Starred [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens)
+3. ⭐ Starred [science-of-finetuning/diffing-toolkit](https://github.com/science-of-finetuning/diffing-toolkit)
+4. ⭐ Starred [natolambert/colloquium](https://github.com/natolambert/colloquium)
+5. ⭐ Starred [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
