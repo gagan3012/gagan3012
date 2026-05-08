@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, May 7th, 2026, 7:42:23 PM (GMT)
+Last Updated: Friday, May 8th, 2026, 2:55:13 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [eliaskempf/model-diffing](https://github.com/eliaskempf/model-diffing)
-2. ⭐ Starred [safety-research/introspection-adapters](https://github.com/safety-research/introspection-adapters)
-3. ⭐ Starred [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens)
-4. ⭐ Starred [science-of-finetuning/diffing-toolkit](https://github.com/science-of-finetuning/diffing-toolkit)
-5. ⭐ Starred [natolambert/colloquium](https://github.com/natolambert/colloquium)
+1. ⭐ Starred [kitft/natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)
+2. ⭐ Starred [eliaskempf/model-diffing](https://github.com/eliaskempf/model-diffing)
+3. ⭐ Starred [safety-research/introspection-adapters](https://github.com/safety-research/introspection-adapters)
+4. ⭐ Starred [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens)
+5. ⭐ Starred [science-of-finetuning/diffing-toolkit](https://github.com/science-of-finetuning/diffing-toolkit)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
