@@ -27,15 +27,15 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, May 27th, 2026, 6:50:45 PM (GMT)
+Last Updated: Thursday, May 28th, 2026, 12:48:15 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [TruthfulAI-research/negation_neglect](https://github.com/TruthfulAI-research/negation_neglect)
-2. ⭐ Starred [kitft/natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)
-3. ⭐ Starred [eliaskempf/model-diffing](https://github.com/eliaskempf/model-diffing)
-4. ⭐ Starred [safety-research/introspection-adapters](https://github.com/safety-research/introspection-adapters)
-5. ⭐ Starred [UKGovernmentBEIS/vllm-lens](https://github.com/UKGovernmentBEIS/vllm-lens)
+1. ⭐ Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
+2. ⭐ Starred [TruthfulAI-research/negation_neglect](https://github.com/TruthfulAI-research/negation_neglect)
+3. ⭐ Starred [kitft/natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)
+4. ⭐ Starred [eliaskempf/model-diffing](https://github.com/eliaskempf/model-diffing)
+5. ⭐ Starred [safety-research/introspection-adapters](https://github.com/safety-research/introspection-adapters)
 <!--RECENT_ACTIVITY:end-->
 
 <!-- BEGIN LIST -->
