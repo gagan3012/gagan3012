@@ -27,12 +27,12 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, July 7th, 2026, 7:15:20 AM (GMT)
+Last Updated: Tuesday, July 7th, 2026, 12:52:20 PM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [lili-chen/rltf](https://github.com/lili-chen/rltf)
-2. ⭐ Starred [google-deepmind/concordia](https://github.com/google-deepmind/concordia)
+1. ⭐ Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
+2. ⭐ Starred [lili-chen/rltf](https://github.com/lili-chen/rltf)
 3. ⭐ Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
 4. ⭐ Starred [kitft/natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)
 5. ⭐ Starred [safety-research/introspection-adapters](https://github.com/safety-research/introspection-adapters)
