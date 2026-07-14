@@ -27,13 +27,13 @@
 </p>
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, July 13th, 2026, 6:35:28 PM (GMT)
+Last Updated: Tuesday, July 14th, 2026, 12:33:50 AM (GMT)
 <!--RECENT_ACTIVITY:last_update_end-->
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
-2. ⭐ Starred [lili-chen/rltf](https://github.com/lili-chen/rltf)
-3. ⭐ Starred [run-llama/liteparse](https://github.com/run-llama/liteparse)
+1. ⭐ Starred [SNL-UCSB/paper-writing-skill](https://github.com/SNL-UCSB/paper-writing-skill)
+2. ⭐ Starred [anthropics/jacobian-lens](https://github.com/anthropics/jacobian-lens)
+3. ⭐ Starred [lili-chen/rltf](https://github.com/lili-chen/rltf)
 4. ⭐ Starred [kitft/natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)
 5. ⭐ Starred [safety-research/introspection-adapters](https://github.com/safety-research/introspection-adapters)
 <!--RECENT_ACTIVITY:end-->
